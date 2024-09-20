@@ -1,0 +1,5002 @@
+[
+    {
+        "instruction": "Very Complex와 어울리는 커피 원두가 있나요?",
+        "response": "추천드릴 수 있는 Very Complex 맛의 원두는 콜롬비아 엘 오브라헤 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "시트러스 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 파푸아뉴기니 마라와카 블루마운틴입니다. 시트러스 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Stone Fruit 맛을 가진 원두를 추천해 주세요.",
+        "response": "Stone Fruit 향이 나는 원두로는 콜롬비아 카우카 디카페인 EA 23을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "깔끔함 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 깔끔함 맛의 원두는 코스타리카 돈 카이토 카투아이 화이트 허니입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "블랙커런트 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 블랙커런트 맛의 원두는 페루 라 피나 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "무화과 맛을 가진 원두를 추천해 주세요.",
+        "response": "무화과 향을 느낄 수 있는 원두로는 콜롬비아 엘 파라이소 카투라 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "건포도 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 에티오피아 트와콕 셀렉션 워시드입니다. 건포도 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "보리 향이 나는 원두가 있을까요?",
+        "response": "보리 맛을 가진 추천 원두는 코스타리카 코페아 디버사 리베리카 언에어로빅 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Purple fruity 향이 나는 원두가 있을까요?",
+        "response": "Purple fruity 향이 나는 원두로는 에콰도르 CVM 라 노리아 게이샤 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "초콜릿 향이 나는 원두가 있을까요?",
+        "response": "해당 원두는 에티오피아 하루수케 언에어로빅 내츄럴입니다. 초콜릿 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Round Body 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Round Body 향이 나는 원두로는 온두라스 산타바바라 에믹디온 파라이네마 내추럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Prune 향이 나는 원두가 있을까요?",
+        "response": "Prune 맛을 가진 추천 원두는 과테말라 엘 피날 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Apple Mint 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 Apple Mint 맛의 원두는 에티오피아 아리차 아도시 블랙허니 T.O.H 2위입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "다크체리 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "다크체리 맛을 가진 추천 원두는 콜롬비아 그랑하 라 에스페란자 게이샤 언에어로빅 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "구아바 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 파나마 엘리다 카투아이 ASD 내추럴 #T6D입니다. 구아바 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Red Apple 맛을 가진 원두를 추천해 주세요.",
+        "response": "Red Apple 향을 느낄 수 있는 원두로는 콜롬비아 엘 파라이소 게이샤 허니이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Cane Sugar 향이 나는 원두가 있을까요?",
+        "response": "Cane Sugar 향을 느낄 수 있는 원두로는 에티오피아 아디스이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Oriental Melon 맛을 가진 원두를 추천해 주세요.",
+        "response": "Oriental Melon 향을 느낄 수 있는 원두로는 콜롬비아 엘 오브라헤 게이샤 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "커피 블러썸와 어울리는 커피 원두가 있나요?",
+        "response": "커피 블러썸 향을 느낄 수 있는 원두로는 케냐 가라투아 게이샤 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "다크초콜릿 향이 나는 커피가 궁금해요.",
+        "response": "다크초콜릿 향이 나는 원두로는 페루 라 팔마 게이샤 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Silky 향이 나는 커피가 궁금해요.",
+        "response": "Silky 향을 느낄 수 있는 원두로는 온두라스 엘 아구아카테 버번 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "복숭아 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 복숭아 맛의 원두는 에티오피아 트와콕 셀렉션 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "베리 향이 나는 원두가 있을까요?",
+        "response": "베리 향을 느낄 수 있는 원두로는 페루 찬차마요이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "체리와 어울리는 커피 원두가 있나요?",
+        "response": "해당 원두는 코스타리카 따라주 SHB입니다. 체리 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Green Tangerine 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 케냐 가라투아 게이샤 워시드입니다. Green Tangerine 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "블러드 오렌지 향이 나는 커피가 궁금해요.",
+        "response": "블러드 오렌지 맛을 가진 추천 원두는 인도네시아 아체가요 G1입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "화려한 과일 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "화려한 과일 향을 느낄 수 있는 원두로는 에티오피아 게데오 반코 고티티 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "라임 향이 나는 커피가 궁금해요.",
+        "response": "라임 맛을 가진 추천 원두는 에티오피아 예가체프 G1 아리차 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Eucalyptus 맛을 가진 원두를 추천해 주세요.",
+        "response": "Eucalyptus 향이 나는 원두로는 콜롬비아 그랑하 만델라 언에어로빅 내츄럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Malt Whiskey 향이 나는 원두가 있을까요?",
+        "response": "Malt Whiskey 향을 느낄 수 있는 원두로는 코스타리카 로스 쿠아르텔레스 야노 보니토 카투아이 블랙허니이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "베리 향이 나는 원두가 있을까요?",
+        "response": "해당 원두는 에티오피아 아디스입니다. 베리 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Dried Mango와 어울리는 커피 원두가 있나요?",
+        "response": "Dried Mango 향을 느낄 수 있는 원두로는 인도네시아 브네르 므리아 리오 무산소 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Papaya 향이 나는 커피가 궁금해요.",
+        "response": "Papaya 맛을 가진 추천 원두는 에콰도르 CVM 라 노리아 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "계피 향이 나는 원두가 있을까요?",
+        "response": "계피 맛을 가진 추천 원두는 멕시코 치아파스 마운틴워터 디카페인입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "아카시아 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 아카시아 맛의 원두는 페루 치리로마 스페셜 리저브 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Stonefruit 향이 나는 원두가 있을까요?",
+        "response": "Stonefruit 맛을 가진 추천 원두는 코스타리카 따라주 SHB입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "버터스카치와 어울리는 커피 원두가 있나요?",
+        "response": "추천드릴 수 있는 버터스카치 맛의 원두는 콜롬비아 그랑하 만델라 X.O입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Black Currant 향이 나는 커피가 궁금해요.",
+        "response": "Black Currant 향이 나는 원두로는 콜롬비아 마난티알레스 델 프론티노 피닉스 게이샤 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "장미 향이 나는 커피가 궁금해요.",
+        "response": "장미 맛을 가진 추천 원두는 콜롬비아 엘 파라이소 레드플럼입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "플로럴 향이 나는 원두가 있을까요?",
+        "response": "추천드릴 수 있는 플로럴 맛의 원두는 브라질 옐로우 버번입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "카라멜 향이 나는 원두가 있을까요?",
+        "response": "추천드릴 수 있는 카라멜 맛의 원두는 과테말라 엘 모리또입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "자두 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "자두 맛을 가진 추천 원두는 코스타리카 나치토 마라고히페 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "백합와 어울리는 커피 원두가 있나요?",
+        "response": "해당 원두는 에티오피아 예가체프 G2입니다. 백합 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "멜론와 어울리는 커피 원두가 있나요?",
+        "response": "해당 원두는 콜롬비아 핀카 포토시 시드라 허니입니다. 멜론 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "다크초콜릿 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 브라질 파젠다 엄 Supreme Profiles입니다. 다크초콜릿 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Concord Grape 향이 나는 커피가 궁금해요.",
+        "response": "Concord Grape 향을 느낄 수 있는 원두로는 파나마 젠슨 게이샤 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "석류 맛을 가진 원두를 추천해 주세요.",
+        "response": "석류 맛을 가진 추천 원두는 콜롬비아 마난티알레스 델 프론티노 피닉스 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "백리향와 어울리는 커피 원두가 있나요?",
+        "response": "백리향 향을 느낄 수 있는 원두로는 콜롬비아 그랑하 만델라 언에어로빅 내츄럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "grape 향이 나는 원두가 있을까요?",
+        "response": "grape 향을 느낄 수 있는 원두로는 에티오피아 예가체프 이디도 내추럴 G1이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "살구 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "살구 향이 나는 원두로는 에티오피아 구지 함벨라 고로 언에어로빅 내추럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "럼 향이 나는 원두가 있을까요?",
+        "response": "럼 맛을 가진 추천 원두는 콜롬비아 수프리모입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Fresh Butter 향이 나는 원두가 있을까요?",
+        "response": "추천드릴 수 있는 Fresh Butter 맛의 원두는 콜롬비아 엘 오브라헤 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "단맛 향이 나는 커피가 궁금해요.",
+        "response": "단맛 향을 느낄 수 있는 원두로는 코스타리카 돈 카이토 게이샤 옐로 허니이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "샤인머스캣 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 코스타리카 플로르 드 몬타나 게이샤 레드 허니입니다. 샤인머스캣 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "베르가못 향이 나는 원두가 있을까요?",
+        "response": "베르가못 향이 나는 원두로는 파나마 카르멘 게이샤 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "히비스커스 향이 나는 원두가 있을까요?",
+        "response": "추천드릴 수 있는 히비스커스 맛의 원두는 과테말라 엘 모리또입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "레드와인 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "레드와인 맛을 가진 추천 원두는 온두라스 나타비다드 베니테즈 파카스 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "차와 같은 깨끗함 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "차와 같은 깨끗함 향을 느낄 수 있는 원두로는 파나마 에스메랄다 팔미라 에스테이트이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Lime Mojito 향이 나는 원두가 있을까요?",
+        "response": "추천드릴 수 있는 Lime Mojito 맛의 원두는 케냐 티리리카 눈두 AA 풀리 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "머스캣와 어울리는 커피 원두가 있나요?",
+        "response": "머스캣 향을 느낄 수 있는 원두로는 콜롬비아 모모스 셀렉션 라 플라타 핑크버번 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "조청 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 조청 맛의 원두는 에티오피아 트와콕 피베리 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "카라멜 향이 나는 원두가 있을까요?",
+        "response": "카라멜 맛을 가진 추천 원두는 콜롬비아 수프리모입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "단맛 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 단맛 맛의 원두는 콜롬비아 마난티알레스 델 프론티노 피닉스 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Sparkling 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 Sparkling 맛의 원두는 콜롬비아 모모스 셀렉션 라 플라타 핑크버번 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Asian Plum 맛을 가진 원두를 추천해 주세요.",
+        "response": "Asian Plum 맛을 가진 추천 원두는 콜롬비아 엘 파라이소 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Cinnamon 향이 나는 원두가 있을까요?",
+        "response": "Cinnamon 향이 나는 원두로는 파나마 엘리다 카투아이 ASD 내추럴 #T6D을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "장미 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "장미 향이 나는 원두로는 콜롬비아 모모스 셀렉션 라 플라타 버번 아루지 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Dried Cherry 향이 나는 원두가 있을까요?",
+        "response": "Dried Cherry 향을 느낄 수 있는 원두로는 콜롬비아 핀카 포토시 시드라 허니이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Sparkling 향이 나는 원두가 있을까요?",
+        "response": "Sparkling 향을 느낄 수 있는 원두로는 케냐 AA TOP이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "얼그레이 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "얼그레이 향이 나는 원두로는 케냐 마구타 이스테이트 내추럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "카카오닙스 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 에티오피아 알로 모스토 언에어로빅 내추럴입니다. 카카오닙스 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "파파야와 어울리는 커피 원두가 있나요?",
+        "response": "해당 원두는 콜롬비아 빌라 테레사 게이샤 무산소 내추럴입니다. 파파야 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Stone Fruit와 어울리는 커피 원두가 있나요?",
+        "response": "Stone Fruit 향이 나는 원두로는 콜롬비아 룸브레라 시드라 락틱 내추럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Yogurt 향이 나는 커피가 궁금해요.",
+        "response": "해당 원두는 예멘 모카 마타리입니다. Yogurt 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "카라멜 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 콜롬비아 마난티알레스입니다. 카라멜 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "버터스카치와 어울리는 커피 원두가 있나요?",
+        "response": "버터스카치 맛을 가진 추천 원두는 인도네시아 만델링 G1입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Tropical Blueberry 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 Tropical Blueberry 맛의 원두는 에티오피아 시다모 G2입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Dark Cherry 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Dark Cherry 향이 나는 원두로는 인도네시아 아체가요 G1을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "카카오 향이 나는 원두가 있을까요?",
+        "response": "해당 원두는 페루 라 팔마 게이샤 워시드입니다. 카카오 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Dried Strawberry 향이 나는 원두가 있을까요?",
+        "response": "추천드릴 수 있는 Dried Strawberry 맛의 원두는 콜롬비아 마난티알레스 델 프론티노 피닉스 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Malt Whiskey 맛을 가진 원두를 추천해 주세요.",
+        "response": "Malt Whiskey 향이 나는 원두로는 케냐 키암부 AA을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Dark Chocoltae 맛을 가진 원두를 추천해 주세요.",
+        "response": "Dark Chocoltae 맛을 가진 추천 원두는 코스타리카 퀘브라다 그란데 모카 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "카라멜와 어울리는 커피 원두가 있나요?",
+        "response": "해당 원두는 콜롬비아 그랑하 라 에스페란자 게이샤 언에어로빅 워시드입니다. 카라멜 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "차와 같은 깨끗함 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "차와 같은 깨끗함 맛을 가진 추천 원두는 탄자니아 킬리만자로 AA 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "풍성한 피니시 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 과테말라 아구아 티비아 게이샤 내추럴입니다. 풍성한 피니시 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "딸기 풍선껌와 어울리는 커피 원두가 있나요?",
+        "response": "추천드릴 수 있는 딸기 풍선껌 맛의 원두는 코스타리카 돈 호엘 게이샤 화이트허니 옥션 랏입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "크랜베리 맛을 가진 원두를 추천해 주세요.",
+        "response": "크랜베리 향이 나는 원두로는 페루 라 팔마 게이샤 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "풍선껌 향이 나는 원두가 있을까요?",
+        "response": "풍선껌 향을 느낄 수 있는 원두로는 에티오피아 코케허니 G1이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "브라운슈가 향이 나는 원두가 있을까요?",
+        "response": "추천드릴 수 있는 브라운슈가 맛의 원두는 콜롬비아 루이스 아니발 카투라 허니입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Concord Grape 향이 나는 커피가 궁금해요.",
+        "response": "Concord Grape 향을 느낄 수 있는 원두로는 콜롬비아 엘 트리운포 핑크부르봉 세미워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "비정제 설탕 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "비정제 설탕 향이 나는 원두로는 페루 라 피나 게이샤 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "풍성한 피니시 향이 나는 원두가 있을까요?",
+        "response": "풍성한 피니시 맛을 가진 추천 원두는 콜롬비아 산아구스틴 마운틴워터 프로세스 디카프입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Mulberry 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Mulberry 향이 나는 원두로는 페루 치리로마 스페셜 리저브 게이샤 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Tropical Blueberry 향이 나는 원두가 있을까요?",
+        "response": "Tropical Blueberry 맛을 가진 추천 원두는 케냐 분고마 쿠테레 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Sparkling와 어울리는 커피 원두가 있나요?",
+        "response": "추천드릴 수 있는 Sparkling 맛의 원두는 콜롬비아 산 어거스틴 라우리나 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "포도 맛을 가진 원두를 추천해 주세요.",
+        "response": "추천드릴 수 있는 포도 맛의 원두는 에티오피아 예가체프 G1 아리차 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Red Fruits 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 Red Fruits 맛의 원두는 파나마 에스메랄다 팔미라 에스테이트입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "말린 과일 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 말린 과일 맛의 원두는 파나마 젠슨 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "사탕수수 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "사탕수수 향을 느낄 수 있는 원두로는 에티오피아 부르사 G1 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Coriander seed 향이 나는 커피가 궁금해요.",
+        "response": "Coriander seed 향이 나는 원두로는 에콰도르 크루즈 로마 게이샤 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Cinnamon 맛을 가진 원두를 추천해 주세요.",
+        "response": "Cinnamon 향을 느낄 수 있는 원두로는 케냐 쿠시엔다 AB 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Fresh Butter 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 파나마 젠슨 게이샤 내추럴입니다. Fresh Butter 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "라즈베리 향이 나는 커피가 궁금해요.",
+        "response": "라즈베리 향이 나는 원두로는 탄자니아 AA을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Tropical Blueberry와 어울리는 커피 원두가 있나요?",
+        "response": "추천드릴 수 있는 Tropical Blueberry 맛의 원두는 에티오피아 구지 함벨라 고로 언에어로빅 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Medium Body 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 과테말라 안티구아 SHB입니다. Medium Body 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Cacao nibs 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 Cacao nibs 맛의 원두는 콜롬비아 엘 파라이소 게이샤 레티 더블 아나에어로빅입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Syruppy 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 Syruppy 맛의 원두는 탄자니아 킬리만자로 AA 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Dried Cherry 향이 나는 원두가 있을까요?",
+        "response": "Dried Cherry 향이 나는 원두로는 코스타리카 돈 카이토 게이샤 옐로 허니을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "블랙커런트와 어울리는 커피 원두가 있나요?",
+        "response": "블랙커런트 향이 나는 원두로는 콜롬비아 빌라 테레사 게이샤 무산소 내추럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "패션프루트 향이 나는 원두가 있을까요?",
+        "response": "패션프루트 향이 나는 원두로는 콜롬비아 시그니쳐 디카페인 셀렉션을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Red Apple 향이 나는 원두가 있을까요?",
+        "response": "추천드릴 수 있는 Red Apple 맛의 원두는 페루 라스 에티오페스 게이샤 내츄럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Tropical Blueberry와 어울리는 커피 원두가 있나요?",
+        "response": "Tropical Blueberry 향을 느낄 수 있는 원두로는 하와이안 코나 엑스트라팬시이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Mandarin와 어울리는 커피 원두가 있나요?",
+        "response": "Mandarin 맛을 가진 추천 원두는 에콰도르 CVM 핀카 엘도라도 우쉬우쉬 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "사과 향이 나는 원두가 있을까요?",
+        "response": "사과 맛을 가진 추천 원두는 에티오피아 하루수케 언에어로빅 내츄럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "차와 같은 깨끗함 향이 나는 원두가 있을까요?",
+        "response": "차와 같은 깨끗함 향을 느낄 수 있는 원두로는 코스타리카 엘 벤다발 카투아이 화이트 허니이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "장미 향이 나는 원두가 있을까요?",
+        "response": "장미 향을 느낄 수 있는 원두로는 코스타리카 엘 벤다발 카투아이 화이트 허니이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "White Peach 향이 나는 원두가 있을까요?",
+        "response": "White Peach 향을 느낄 수 있는 원두로는 콜롬비아 그랑하 라스 마가리타스 게이샤 내츄럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "헤이즐넛 향이 나는 원두가 있을까요?",
+        "response": "헤이즐넛 맛을 가진 추천 원두는 코스타리카 플로르 드 몬타나 게이샤 레드 허니입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "오크 향이 나는 원두가 있을까요?",
+        "response": "오크 향이 나는 원두로는 과테말라 라 에르모사 에티오피아 게이샤 풀리 워시드 옥션 랏을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Mango 맛을 가진 원두를 추천해 주세요.",
+        "response": "Mango 맛을 가진 추천 원두는 에티오피아 구지 함벨라 고로 언에어로빅 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "코코아 맛을 가진 원두를 추천해 주세요.",
+        "response": "코코아 향을 느낄 수 있는 원두로는 콜롬비아 엘 오브라헤 게이샤 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "grape 향이 나는 원두가 있을까요?",
+        "response": "grape 맛을 가진 추천 원두는 에티오피아 시다모 G1 봄베 와인 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "자두와 어울리는 커피 원두가 있나요?",
+        "response": "자두 향을 느낄 수 있는 원두로는 에티오피아 시다모 벤사 봄베 에이미 G1 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Red apple와 어울리는 커피 원두가 있나요?",
+        "response": "Red apple 맛을 가진 추천 원두는 과테말라 아구아 티비아 게이샤 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "블랙체리 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 콜롬비아 엘 파라이소 리치 더블 아나에어로빅입니다. 블랙체리 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Date 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Date 맛을 가진 추천 원두는 콜롬비아 핀카 포토시 시드라 허니입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "과일 맛을 가진 원두를 추천해 주세요.",
+        "response": "추천드릴 수 있는 과일 맛의 원두는 케냐 카마빈디 AA 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Cinnamon 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Cinnamon 향을 느낄 수 있는 원두로는 에티오피아 게데오 반코 고티티 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Coriander seed 향이 나는 원두가 있을까요?",
+        "response": "Coriander seed 향이 나는 원두로는 에티오피아 구지 우라가 74112 내추럴 A.F.C.A#1을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "럼와 어울리는 커피 원두가 있나요?",
+        "response": "럼 향이 나는 원두로는 에티오피아 구지 모모라 내추럴 G1을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Cacao nibs 맛을 가진 원두를 추천해 주세요.",
+        "response": "Cacao nibs 향이 나는 원두로는 과테말라 아구아 티비아 게이샤 내추럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "딸기 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 파나마 코토와 던칸 게이샤 내추럴입니다. 딸기 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Malt Whiskey 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Malt Whiskey 향을 느낄 수 있는 원두로는 파나마 롱보드 미스틱 마운틴 게이샤 바이오 다이나믹 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "시트러스 맛을 가진 원두를 추천해 주세요.",
+        "response": "추천드릴 수 있는 시트러스 맛의 원두는 에티오피아 아리차 G1 에이미 '문규 셀렉션' 내츄럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Shine Muscat 향이 나는 커피가 궁금해요.",
+        "response": "Shine Muscat 향이 나는 원두로는 페루 라 루쿠마 게이샤 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "좋은 밸런스 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 좋은 밸런스 맛의 원두는 콜롬비아 후일라 수프리모입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Concord Grape 향이 나는 커피가 궁금해요.",
+        "response": "Concord Grape 향을 느낄 수 있는 원두로는 파나마 잰슨 게이샤 세미 언에어로빅 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Champagne 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 Champagne 맛의 원두는 파나마 롱보드 미스틱 마운틴 게이샤 바이오 다이나믹 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Coffee blossom와 어울리는 커피 원두가 있나요?",
+        "response": "추천드릴 수 있는 Coffee blossom 맛의 원두는 케냐 루시 왐부이 이스테이트 AA 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "플로럴 향이 나는 원두가 있을까요?",
+        "response": "플로럴 향을 느낄 수 있는 원두로는 콜롬비아 피탈리토 알토 아폰테 카투라 허니이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "라벤더 향이 나는 원두가 있을까요?",
+        "response": "라벤더 향을 느낄 수 있는 원두로는 콜롬비아 카를로스이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "말린 과일 맛을 가진 원두를 추천해 주세요.",
+        "response": "말린 과일 맛을 가진 추천 원두는 탄자니아 AA입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "자두 향이 나는 원두가 있을까요?",
+        "response": "해당 원두는 콜롬비아 산 어거스틴 라우리나 워시드입니다. 자두 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "카라멜 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 카라멜 맛의 원두는 에티오피아 예가체프 G1 아리차 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "과일 향이 나는 원두가 있을까요?",
+        "response": "해당 원두는 파나마 카르멘 게이샤 워시드입니다. 과일 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Stone Fruits 향이 나는 원두가 있을까요?",
+        "response": "Stone Fruits 맛을 가진 추천 원두는 과테말라 라 에르모사 파나마 게이샤 풀리 워시드 옥션 랏입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Red apple와 어울리는 커피 원두가 있나요?",
+        "response": "Red apple 향을 느낄 수 있는 원두로는 에티오피아 반코 타라투 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "리치와 어울리는 커피 원두가 있나요?",
+        "response": "추천드릴 수 있는 리치 맛의 원두는 과테말라 안티구아 SHB입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "견과류와 어울리는 커피 원두가 있나요?",
+        "response": "견과류 맛을 가진 추천 원두는 케냐 마구타 이스테이트 AA CM 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "패션프루트 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "패션프루트 향을 느낄 수 있는 원두로는 콜롬비아 룸브레라 시드라 락틱 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Sage 향이 나는 커피가 궁금해요.",
+        "response": "Sage 향을 느낄 수 있는 원두로는 콜롬비아 엘 트리운포 핑크브루봉 디카페인이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Red Fruits 맛을 가진 원두를 추천해 주세요.",
+        "response": "Red Fruits 향을 느낄 수 있는 원두로는 과테말라 아구아 티비아 게이샤 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Tropical Blueberry 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Tropical Blueberry 향을 느낄 수 있는 원두로는 콜롬비아 수프리모이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "자스민 향이 나는 커피가 궁금해요.",
+        "response": "자스민 향을 느낄 수 있는 원두로는 인도 몬순 말라바르 AA이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Dried Orange 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Dried Orange 맛을 가진 추천 원두는 케냐 카마빈디 AA 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "베르가못 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 베르가못 맛의 원두는 케냐 AA TOP입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "베리 향이 나는 커피가 궁금해요.",
+        "response": "베리 향이 나는 원두로는 에티오피아 모모라 워시드 G1을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Mulberry 향이 나는 커피가 궁금해요.",
+        "response": "Mulberry 향을 느낄 수 있는 원두로는 페루 라스 에티오페스 게이샤 내츄럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "좋은 밸런스 향이 나는 커피가 궁금해요.",
+        "response": "좋은 밸런스 맛을 가진 추천 원두는 페루 라 팔마 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Malt 향이 나는 원두가 있을까요?",
+        "response": "Malt 향을 느낄 수 있는 원두로는 과테말라 메디나 RFA 워시드 SHB이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Assam Tea 향이 나는 커피가 궁금해요.",
+        "response": "Assam Tea 향을 느낄 수 있는 원두로는 콜롬비아 모모스 셀렉션 라 플라타 버번 아루지 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "럼 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "럼 향이 나는 원두로는 콜롬비아 그랑하 만델라 X.O을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "감귤 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 온두라스 엘 아구아카테 버번 워시드입니다. 감귤 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Roasted Sweet Potato와 어울리는 커피 원두가 있나요?",
+        "response": "Roasted Sweet Potato 맛을 가진 추천 원두는 과테말라 와이칸입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Cane Sugar 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 Cane Sugar 맛의 원두는 케냐 이노이 키안디에리 AA 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "볶은 곡물 향이 나는 원두가 있을까요?",
+        "response": "해당 원두는 콜롬비아 그랑하 라스 마가리타스 게이샤 워시드입니다. 볶은 곡물 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "파파야와 어울리는 커피 원두가 있나요?",
+        "response": "파파야 향이 나는 원두로는 콜롬비아 피탈리토 알토 아폰테 카투라 허니을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Fruit Candy와 어울리는 커피 원두가 있나요?",
+        "response": "Fruit Candy 향이 나는 원두로는 케냐 분고마 쿠테레 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Very Complex 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Very Complex 향을 느낄 수 있는 원두로는 과테말라 라 에르모사 에티오피아 게이샤 풀리 워시드 옥션 랏이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Lily 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 Lily 맛의 원두는 케냐 키암부 AA입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Dark Chocoltae 향이 나는 원두가 있을까요?",
+        "response": "Dark Chocoltae 맛을 가진 추천 원두는 코스타리카 볼칸 아줄 게이샤 이스트 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Stone Fruits 향이 나는 원두가 있을까요?",
+        "response": "Stone Fruits 향이 나는 원두로는 콜롬비아 엘 트리운포 핑크브루봉 디카페인을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Walnut 향이 나는 커피가 궁금해요.",
+        "response": "Walnut 향이 나는 원두로는 온두라스 엘 아구아카테 버번 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "코코아 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 코코아 맛의 원두는 에티오피아 벤치 마지 게샤 G1 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "쥬시 향이 나는 커피가 궁금해요.",
+        "response": "쥬시 향이 나는 원두로는 온두라스 산타바바라 에믹디온 파라이네마 내추럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "라즈베리와 어울리는 커피 원두가 있나요?",
+        "response": "라즈베리 맛을 가진 추천 원두는 에티오피아 예가체프 G1 아리차 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Dried Mango 향이 나는 커피가 궁금해요.",
+        "response": "Dried Mango 향을 느낄 수 있는 원두로는 파나마 롱보드 미스틱 마운틴 게이샤 바이오 다이나믹 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Round Body 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 콜롬비아 모모스 셀렉션 라 플라타 핑크버번 워시드입니다. Round Body 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "파인애플 향이 나는 커피가 궁금해요.",
+        "response": "파인애플 맛을 가진 추천 원두는 브라질 옐로우버본 펄프드 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Papaya 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Papaya 맛을 가진 추천 원두는 콜롬비아 엘 파라이소 카투라 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "당밀 맛을 가진 원두를 추천해 주세요.",
+        "response": "당밀 맛을 가진 추천 원두는 에티오피아 반코 타라투 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "홍차 맛을 가진 원두를 추천해 주세요.",
+        "response": "홍차 향을 느낄 수 있는 원두로는 에티오피아 시다모 벤사 봄베 에이미 G1 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "베르가못 맛을 가진 원두를 추천해 주세요.",
+        "response": "추천드릴 수 있는 베르가못 맛의 원두는 콜롬비아 엘 오브라헤 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "스카치캔디 맛을 가진 원두를 추천해 주세요.",
+        "response": "스카치캔디 맛을 가진 추천 원두는 탄자니아 AA입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Cacao nibs와 어울리는 커피 원두가 있나요?",
+        "response": "해당 원두는 콜롬비아 그랑하 만델라 X.O입니다. Cacao nibs 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "오렌지와 어울리는 커피 원두가 있나요?",
+        "response": "오렌지 맛을 가진 추천 원두는 코스타리카 코페아 디버사 리베리카 언에어로빅 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "시트러스 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "시트러스 맛을 가진 추천 원두는 콜롬비아 모모스 셀렉션 라 플라타 핑크버번 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Black Berry와 어울리는 커피 원두가 있나요?",
+        "response": "Black Berry 맛을 가진 추천 원두는 에티오피아 구지 모모라 내추럴 G1입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "스카치캔디 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 페루 치리로마 스페셜 리저브 게이샤 워시드입니다. 스카치캔디 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Yogurt와 어울리는 커피 원두가 있나요?",
+        "response": "Yogurt 향이 나는 원두로는 에티오피아 시다모 G2을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "포도 맛을 가진 원두를 추천해 주세요.",
+        "response": "포도 향이 나는 원두로는 에티오피아 아리차 G1 에이미 '문규 셀렉션' 내츄럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Quince 향이 나는 원두가 있을까요?",
+        "response": "Quince 맛을 가진 추천 원두는 온두라스 제린 사가스투메 파카스 허니입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Lime Mojito 향이 나는 원두가 있을까요?",
+        "response": "Lime Mojito 맛을 가진 추천 원두는 페루 라스 에티오페스 게이샤 내츄럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "좋은 바디감 맛을 가진 원두를 추천해 주세요.",
+        "response": "좋은 바디감 향을 느낄 수 있는 원두로는 코스타리카 볼칸 아줄 게이샤 이스트 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "계피 향이 나는 원두가 있을까요?",
+        "response": "계피 향을 느낄 수 있는 원두로는 콜롬비아 그랑하 부에노스 아이레스 게이샤 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Lavender 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Lavender 향이 나는 원두로는 콜롬비아 시그니쳐 디카페인 셀렉션을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Silky Body 향이 나는 커피가 궁금해요.",
+        "response": "Silky Body 맛을 가진 추천 원두는 멕시코 치아파스 마운틴워터 디카페인입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "꿀 향이 나는 커피가 궁금해요.",
+        "response": "해당 원두는 코스타리카 카라존 티피카 레포사도 내추럴입니다. 꿀 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Green Tangerine 향이 나는 원두가 있을까요?",
+        "response": "추천드릴 수 있는 Green Tangerine 맛의 원두는 에티오피아 아리차 아도시 블랙허니 T.O.H 2위입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Black Berry 맛을 가진 원두를 추천해 주세요.",
+        "response": "Black Berry 향을 느낄 수 있는 원두로는 에티오피아 예가체프 이디도 내추럴 G1이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "자몽 향이 나는 커피가 궁금해요.",
+        "response": "자몽 맛을 가진 추천 원두는 코스타리카 비스타 알 피델 비야사치 내츄럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Nectarine 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 Nectarine 맛의 원두는 에콰도르 CVM 라 노리아 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Assam Tea 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 과테말라 인헤르토 페냐 블랑카 레전더리 게이샤 워시드 옥션 랏입니다. Assam Tea 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "단맛 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 파나마 세비지 커피스 게이샤 '이리디센스' CM 워시드입니다. 단맛 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "오크 향이 나는 커피가 궁금해요.",
+        "response": "오크 향이 나는 원두로는 콜롬비아 시그니쳐 디카페인 셀렉션을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Sweet Aftertaste 향이 나는 커피가 궁금해요.",
+        "response": "Sweet Aftertaste 맛을 가진 추천 원두는 과테말라 라 에르모사 파나마 게이샤 풀리 워시드 옥션 랏입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "카라멜 향이 나는 커피가 궁금해요.",
+        "response": "카라멜 맛을 가진 추천 원두는 에콰도르 산 아구스틴 시드라 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "풍부한 바디감와 어울리는 커피 원두가 있나요?",
+        "response": "풍부한 바디감 맛을 가진 추천 원두는 과테말라 엘 피날 게이샤 풀리 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "샤인머스캣 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 페루 잉카 루미 게이샤 워시드입니다. 샤인머스캣 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "계피 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "계피 향이 나는 원두로는 인도 몬순 말라바르 AA을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "블루베리와 어울리는 커피 원두가 있나요?",
+        "response": "추천드릴 수 있는 블루베리 맛의 원두는 페루 라 팔마 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "버터스카치 맛을 가진 원두를 추천해 주세요.",
+        "response": "버터스카치 향을 느낄 수 있는 원두로는 코스타리카 돈 호엘 게이샤 화이트허니 옥션 랏이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "허브와 어울리는 커피 원두가 있나요?",
+        "response": "해당 원두는 페루 라 피나 게이샤 워시드입니다. 허브 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Walnut 맛을 가진 원두를 추천해 주세요.",
+        "response": "Walnut 향이 나는 원두로는 브라질 파젠다 엄 Supreme Profiles을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "버터스카치 맛을 가진 원두를 추천해 주세요.",
+        "response": "버터스카치 향이 나는 원두로는 에티오피아 구지 모모라 내추럴 G1을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "바닐라 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 바닐라 맛의 원두는 온두라스 나타비다드 베니테즈 파카스 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "아카시아 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "아카시아 맛을 가진 추천 원두는 페루 라 피나 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Green Tangerine 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Green Tangerine 맛을 가진 추천 원두는 콜롬비아 엘 오브라제 게이샤 무산소 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "조청 향이 나는 커피가 궁금해요.",
+        "response": "해당 원두는 과테말라 라 에르모사 에티오피아 게이샤 풀리 워시드 옥션 랏입니다. 조청 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Passion Fruit 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 에티오피아 시다마 코코세 내추럴입니다. Passion Fruit 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Pomegrante와 어울리는 커피 원두가 있나요?",
+        "response": "해당 원두는 파나마 젠슨 게이샤 워시드입니다. Pomegrante 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "계피 향이 나는 원두가 있을까요?",
+        "response": "계피 향을 느낄 수 있는 원두로는 콜롬비아 수프리모이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "라임와 어울리는 커피 원두가 있나요?",
+        "response": "라임 향이 나는 원두로는 콜롬비아 엘 파라이소 게이샤 허니을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "블루베리 향이 나는 원두가 있을까요?",
+        "response": "추천드릴 수 있는 블루베리 맛의 원두는 과테말라 아구아 티비아 게이샤 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "라벤더 향이 나는 원두가 있을까요?",
+        "response": "라벤더 향이 나는 원두로는 파나마 잰슨 게이샤 세미 언에어로빅 내추럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "grape 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 케냐 티리리카 눈두 AA 풀리 워시드입니다. grape 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "아카시아 맛을 가진 원두를 추천해 주세요.",
+        "response": "아카시아 향을 느낄 수 있는 원두로는 코스타리카 플로르 드 몬타나 게이샤 레드 허니이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Fruit Candy 맛을 가진 원두를 추천해 주세요.",
+        "response": "Fruit Candy 향을 느낄 수 있는 원두로는 콜롬비아 그랑하 라 에스페란자 게이샤 언에어로빅 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "포도와 어울리는 커피 원두가 있나요?",
+        "response": "추천드릴 수 있는 포도 맛의 원두는 에티오피아 알로 모스토 언에어로빅 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Black Currant 맛을 가진 원두를 추천해 주세요.",
+        "response": "Black Currant 맛을 가진 추천 원두는 콜롬비아 엘 오브라제 게이샤 무산소 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Round Body 맛을 가진 원두를 추천해 주세요.",
+        "response": "Round Body 맛을 가진 추천 원두는 파나마 엘 베로 하시엔다 라 에스메랄다 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "무화과 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 무화과 맛의 원두는 코스타리카 라 리아 SL28 레드 허니입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "히비스커스 향이 나는 커피가 궁금해요.",
+        "response": "히비스커스 향을 느낄 수 있는 원두로는 콜롬비아 엘 파라이소 카투라 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Lavender와 어울리는 커피 원두가 있나요?",
+        "response": "Lavender 향을 느낄 수 있는 원두로는 에티오피아 짐마이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Rose Tea와 어울리는 커피 원두가 있나요?",
+        "response": "Rose Tea 향이 나는 원두로는 코스타리카 코페아 디버사 리베리카 언에어로빅 내추럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Syruppy 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 Syruppy 맛의 원두는 코스타리카 로스 쿠아르텔레스 야노 보니토 카투아이 블랙허니입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Dried fruit와 어울리는 커피 원두가 있나요?",
+        "response": "Dried fruit 향이 나는 원두로는 콜롬비아 우일라 레인보우 디카페인을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "블러드 오렌지와 어울리는 커피 원두가 있나요?",
+        "response": "해당 원두는 코스타리카 로스 쿠아르텔레스 야노 보니토 카투아이 블랙허니입니다. 블러드 오렌지 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "샤인머스캣 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 샤인머스캣 맛의 원두는 콜롬비아 마난티알레스입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "청사과 향이 나는 원두가 있을까요?",
+        "response": "추천드릴 수 있는 청사과 맛의 원두는 페루 라 팔마 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Mango 맛을 가진 원두를 추천해 주세요.",
+        "response": "추천드릴 수 있는 Mango 맛의 원두는 과테말라 에르모사입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "The scent of a flower 향이 나는 커피가 궁금해요.",
+        "response": "The scent of a flower 향이 나는 원두로는 에티오피아 시다모 벤사 봄베 에이미 G1 내추럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "포도와 어울리는 커피 원두가 있나요?",
+        "response": "해당 원두는 케냐 AA입니다. 포도 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Cacao nibs 향이 나는 원두가 있을까요?",
+        "response": "Cacao nibs 향을 느낄 수 있는 원두로는 에티오피아 아리차 내추럴 G1이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Syruppy 맛을 가진 원두를 추천해 주세요.",
+        "response": "Syruppy 맛을 가진 추천 원두는 브라질 옐로우 버번입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Pine 향이 나는 원두가 있을까요?",
+        "response": "Pine 향이 나는 원두로는 ﻿인도 마이소르 너깃 엑스트라 볼드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Eucalyptus 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 Eucalyptus 맛의 원두는 에티오피아 구지 우라가 74112 내추럴 A.F.C.A#1입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Delicate와 어울리는 커피 원두가 있나요?",
+        "response": "해당 원두는 콜롬비아 엘 파라이소 게이샤 허니입니다. Delicate 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Cane Sugar와 어울리는 커피 원두가 있나요?",
+        "response": "Cane Sugar 향이 나는 원두로는 과테말라 아구아 티비아 게이샤 내추럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Malt Whiskey 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 Malt Whiskey 맛의 원두는 콜롬비아 룸브레라 시드라 락틱 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Candy와 어울리는 커피 원두가 있나요?",
+        "response": "Candy 향이 나는 원두로는 콜롬비아 그랑하 부에노스 아이레스 게이샤 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "단맛 맛을 가진 원두를 추천해 주세요.",
+        "response": "단맛 향이 나는 원두로는 에티오피아 코케허니 G1을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "시럽 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 시럽 맛의 원두는 에티오피아 짐마입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Lavender 맛을 가진 원두를 추천해 주세요.",
+        "response": "Lavender 향을 느낄 수 있는 원두로는 과테말라 아구이요테스 마라고지페 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "헤이즐넛 향이 나는 원두가 있을까요?",
+        "response": "헤이즐넛 향을 느낄 수 있는 원두로는 에티오피아 트와콕 셀렉션 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "코코아와 어울리는 커피 원두가 있나요?",
+        "response": "코코아 향을 느낄 수 있는 원두로는 코스타리카 라 리아 SL28 레드 허니이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "라즈베리 향이 나는 원두가 있을까요?",
+        "response": "해당 원두는 파나마 세비지 커피 카투라 내츄럴입니다. 라즈베리 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Blue Berry 향이 나는 원두가 있을까요?",
+        "response": "Blue Berry 맛을 가진 추천 원두는 콜롬비아 그랑하 만델라 X.O입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Sake 맛을 가진 원두를 추천해 주세요.",
+        "response": "추천드릴 수 있는 Sake 맛의 원두는 에티오피아 모모라 워시드 G1입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Stonefruit 맛을 가진 원두를 추천해 주세요.",
+        "response": "Stonefruit 맛을 가진 추천 원두는 온두라스 벤하민 파즈라 살사 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "키위 향이 나는 원두가 있을까요?",
+        "response": "추천드릴 수 있는 키위 맛의 원두는 콜롬비아 그랑하 라스 마가리타스 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Round Mouthfeel 향이 나는 커피가 궁금해요.",
+        "response": "해당 원두는 케냐 이노이 키안디에리 AA 워시드입니다. Round Mouthfeel 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "시럽 향이 나는 커피가 궁금해요.",
+        "response": "해당 원두는 에티오피아 구지 모모라 내추럴 G1입니다. 시럽 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Walnut와 어울리는 커피 원두가 있나요?",
+        "response": "Walnut 향을 느낄 수 있는 원두로는 파나마 아다우라 게이샤 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "자몽 향이 나는 원두가 있을까요?",
+        "response": "해당 원두는 코스타리카 로스 쿠아르텔레스 야노 보니토 카투아이 블랙허니입니다. 자몽 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Apple Jam와 어울리는 커피 원두가 있나요?",
+        "response": "Apple Jam 향이 나는 원두로는 에티오피아 시다마 코코세 내추럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "다크체리와 어울리는 커피 원두가 있나요?",
+        "response": "다크체리 향이 나는 원두로는 브라질 페드로을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "라임 향이 나는 커피가 궁금해요.",
+        "response": "해당 원두는 콜롬비아 모모스 셀렉션 라 플라타 버번 아루지 워시드입니다. 라임 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Dried Orange 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Dried Orange 맛을 가진 추천 원두는 과테말라 플란 디 라 베가 허니입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "샤인머스캣 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 콜롬비아 그랑하 라 에스페란자 게이샤 언에어로빅 워시드입니다. 샤인머스캣 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Green Tangerine와 어울리는 커피 원두가 있나요?",
+        "response": "해당 원두는 에티오피아 부르사 G1 워시드입니다. Green Tangerine 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "히비스커스와 어울리는 커피 원두가 있나요?",
+        "response": "히비스커스 맛을 가진 추천 원두는 콜롬비아 엘 오브라제 게이샤 무산소 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "라벤더 향이 나는 원두가 있을까요?",
+        "response": "라벤더 향을 느낄 수 있는 원두로는 디카페인 에티오피아 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Clean Cup와 어울리는 커피 원두가 있나요?",
+        "response": "Clean Cup 맛을 가진 추천 원두는 에티오피아 구지 우라가 74112 내추럴 A.F.C.A#1입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "프루티 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 과테말라 메디나 RFA 워시드 SHB입니다. 프루티 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "비스킷와 어울리는 커피 원두가 있나요?",
+        "response": "추천드릴 수 있는 비스킷 맛의 원두는 브라질 스위스 워터 프로세스 디카페인입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Basil 맛을 가진 원두를 추천해 주세요.",
+        "response": "Basil 향을 느낄 수 있는 원두로는 코스타리카 플로르 드 몬타나 게이샤 레드 허니이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "풍성한 피니시 맛을 가진 원두를 추천해 주세요.",
+        "response": "풍성한 피니시 향을 느낄 수 있는 원두로는 코스타리카 퀘브라다 그란데 모카 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Silky Body 맛을 가진 원두를 추천해 주세요.",
+        "response": "Silky Body 향을 느낄 수 있는 원두로는 파나마 엘 베로 하시엔다 라 에스메랄다 게이샤 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "차와 같은 깨끗함 향이 나는 원두가 있을까요?",
+        "response": "차와 같은 깨끗함 향이 나는 원두로는 콜롬비아 핀카 포토시 시드라 허니을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Grain 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 에티오피아 아리차 아도시 블랙허니 T.O.H 2위입니다. Grain 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Prune 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 Prune 맛의 원두는 콜롬비아 카우카 디카페인 EA 23입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Pink Rose 맛을 가진 원두를 추천해 주세요.",
+        "response": "추천드릴 수 있는 Pink Rose 맛의 원두는 코스타리카 퀘브라다 그란데 모카 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "카카오와 어울리는 커피 원두가 있나요?",
+        "response": "카카오 향이 나는 원두로는 탄자니아 AA을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "버터스카치 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 콜롬비아 엘 파라이소 게이샤 레티 더블 아나에어로빅입니다. 버터스카치 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Assam Tea 향이 나는 커피가 궁금해요.",
+        "response": "Assam Tea 향이 나는 원두로는 케냐 가라투아 게이샤 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Lime Mojito 향이 나는 원두가 있을까요?",
+        "response": "Lime Mojito 맛을 가진 추천 원두는 콜롬비아 마난티알레스 델 프론티노 피닉스 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Rosehip와 어울리는 커피 원두가 있나요?",
+        "response": "Rosehip 향을 느낄 수 있는 원두로는 과테말라 플란 디 라 베가 허니이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Sage와 어울리는 커피 원두가 있나요?",
+        "response": "Sage 향을 느낄 수 있는 원두로는 과테말라 플란 디 라 베가 허니이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Mango 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Mango 맛을 가진 추천 원두는 파푸아뉴기니 마라와카 블루마운틴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Sage 향이 나는 원두가 있을까요?",
+        "response": "Sage 향이 나는 원두로는 파나마 아다우라 게이샤 ASD 내추럴 DF을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Apple Mint 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 Apple Mint 맛의 원두는 콜롬비아 엘 트리운포 핑크브루봉 디카페인입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Clean Cup 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 과테말라 안티구아 SHB입니다. Clean Cup 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "살구 맛을 가진 원두를 추천해 주세요.",
+        "response": "살구 향을 느낄 수 있는 원두로는 과테말라 안티구아이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Red apple와 어울리는 커피 원두가 있나요?",
+        "response": "Red apple 맛을 가진 추천 원두는 파나마 에스메랄다 팔미라 에스테이트입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Orange Juice 향이 나는 커피가 궁금해요.",
+        "response": "Orange Juice 맛을 가진 추천 원두는 코스타리카 돈 카이토 게이샤 옐로 허니입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "카모마일 향이 나는 커피가 궁금해요.",
+        "response": "카모마일 맛을 가진 추천 원두는 에콰도르 CVM 핀카 엘도라도 우쉬우쉬 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "건포도 맛을 가진 원두를 추천해 주세요.",
+        "response": "추천드릴 수 있는 건포도 맛의 원두는 파나마 새비지 게이샤 파라볼릭입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "백리향 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 백리향 맛의 원두는 에티오피아 예가체프 아리차 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Medium Body 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 Medium Body 맛의 원두는 코스타리카 비스타 알 피델 비야사치 내츄럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Dried Orange 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Dried Orange 맛을 가진 추천 원두는 에티오피아 게이샤 빌리지 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "좋은 밸런스 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "좋은 밸런스 맛을 가진 추천 원두는 예멘 모카 마타리입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "견과류 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 에티오피아 알로 모스토 언에어로빅 내추럴입니다. 견과류 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "비정제 설탕 향이 나는 원두가 있을까요?",
+        "response": "해당 원두는 파나마 아다우라 게이샤 내추럴입니다. 비정제 설탕 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Hazelnuts 향이 나는 원두가 있을까요?",
+        "response": "Hazelnuts 맛을 가진 추천 원두는 에티오피아 시다모 벤사 봄베 에이미 G1 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "리치 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "리치 맛을 가진 추천 원두는 에티오피아 코케허니 G1입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Basil 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 Basil 맛의 원두는 파나마 세비지 커피 카투라 내츄럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Black Currant 향이 나는 원두가 있을까요?",
+        "response": "해당 원두는 에티오피아 게샤 빌리지 오마 게이샤 1931 내추럴 GV4 옥션 랏입니다. Black Currant 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "복숭아 향이 나는 원두가 있을까요?",
+        "response": "복숭아 맛을 가진 추천 원두는 코스타리카 나치토 마라고히페 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Basil 향이 나는 커피가 궁금해요.",
+        "response": "Basil 향을 느낄 수 있는 원두로는 파나마 코토와 던칸 게이샤 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Lime Mojito 향이 나는 커피가 궁금해요.",
+        "response": "해당 원두는 콜롬비아 산 어거스틴 라우리나 워시드입니다. Lime Mojito 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Round Mouthfeel 향이 나는 원두가 있을까요?",
+        "response": "Round Mouthfeel 향을 느낄 수 있는 원두로는 코스타리카 웨스떼른 발리 산 크리스토발 라 베야 블랙허니이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Dark Cherry와 어울리는 커피 원두가 있나요?",
+        "response": "Dark Cherry 향을 느낄 수 있는 원두로는 에티오피아 예가체프 G2이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "쥬시 맛을 가진 원두를 추천해 주세요.",
+        "response": "쥬시 향을 느낄 수 있는 원두로는 코스타리카 비스타 알 피델 비야사치 내츄럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Stonefruit 향이 나는 커피가 궁금해요.",
+        "response": "해당 원두는 콜롬비아 엘 파라이소 카투라 워시드입니다. Stonefruit 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Fresh Butter 향이 나는 원두가 있을까요?",
+        "response": "Fresh Butter 향이 나는 원두로는 파나마 롱보드 미스틱 마운틴 게이샤 바이오 다이나믹 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Sweet Aftertaste 향이 나는 커피가 궁금해요.",
+        "response": "Sweet Aftertaste 맛을 가진 추천 원두는 페루 라스 에티오페스 게이샤 내츄럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Black Berry 맛을 가진 원두를 추천해 주세요.",
+        "response": "Black Berry 향이 나는 원두로는 케냐 응가라투 AA 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Brown sugar 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 Brown sugar 맛의 원두는 케냐 가라투아 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "견과류 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 견과류 맛의 원두는 코스타리카 플로르 드 몬타나 게이샤 레드 허니입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "라즈베리 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 라즈베리 맛의 원두는 과테말라 엘 피날 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Green Tangerine 향이 나는 원두가 있을까요?",
+        "response": "해당 원두는 코스타리카 비스타 알 피델 비야사치 내츄럴입니다. Green Tangerine 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "라벤더 향이 나는 커피가 궁금해요.",
+        "response": "라벤더 향이 나는 원두로는 페루 라스 에티오페스 게이샤 내츄럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Cacao nibs 향이 나는 커피가 궁금해요.",
+        "response": "Cacao nibs 향을 느낄 수 있는 원두로는 케냐 응가라투 AA 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "장미 향이 나는 커피가 궁금해요.",
+        "response": "장미 향이 나는 원두로는 에티오피아 트와콕 피베리 내추럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Fruit Candy 향이 나는 커피가 궁금해요.",
+        "response": "Fruit Candy 향을 느낄 수 있는 원두로는 과테말라 라 에르모사 에티오피아 게이샤 풀리 워시드 옥션 랏이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Pomegrante 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Pomegrante 향이 나는 원두로는 과테말라 와이칸을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "과일 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "과일 향을 느낄 수 있는 원두로는 페루 잉카 루미 게이샤 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Tropical 향이 나는 커피가 궁금해요.",
+        "response": "Tropical 향을 느낄 수 있는 원두로는 탄자니아 AA이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Coriander seed 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 에티오피아 예가체프 G1 아리차 워시드입니다. Coriander seed 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "샤인머스캣와 어울리는 커피 원두가 있나요?",
+        "response": "추천드릴 수 있는 샤인머스캣 맛의 원두는 에티오피아 아리차 G1 에이미 '문규 셀렉션' 내츄럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Papaya 맛을 가진 원두를 추천해 주세요.",
+        "response": "Papaya 향이 나는 원두로는 멕시코 치아파스 마운틴워터 디카페인을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "라벤더 향이 나는 원두가 있을까요?",
+        "response": "라벤더 향이 나는 원두로는 브라질 세하도 파인컵 NY2을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Dried Cherry 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 Dried Cherry 맛의 원두는 콜롬비아 엘 트리운포 핑크브루봉 디카페인입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "보리 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 보리 맛의 원두는 코스타리카 돈 카이토 카투아이 화이트 허니입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "브라운슈가 맛을 가진 원두를 추천해 주세요.",
+        "response": "브라운슈가 맛을 가진 추천 원두는 에티오피아 아디스입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "포도 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 에티오피아 예가체프 G2입니다. 포도 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "단맛 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "단맛 향이 나는 원두로는 콜롬비아 나리뇨 벨런 라 레이나 게이샤 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "단맛 향이 나는 원두가 있을까요?",
+        "response": "해당 원두는 코스타리카 돈 카이토 게이샤 옐로 허니입니다. 단맛 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Dark Cherry 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 Dark Cherry 맛의 원두는 콜롬비아 후일라 수프리모입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Velvety 향이 나는 커피가 궁금해요.",
+        "response": "Velvety 향이 나는 원두로는 콜롬비아 나리뇨 벨런 라 레이나 게이샤 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Concord Grape 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 Concord Grape 맛의 원두는 탄자니아 킬리만자로 AA 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "얼그레이와 어울리는 커피 원두가 있나요?",
+        "response": "얼그레이 맛을 가진 추천 원두는 브라질 옐로우 버번입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Oriental Melon 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 에티오피아 트와콕 피베리 내추럴입니다. Oriental Melon 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Tropical 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Tropical 맛을 가진 추천 원두는 코스타리카 재규어허니 SHB입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "볶은 곡물 맛을 가진 원두를 추천해 주세요.",
+        "response": "볶은 곡물 향을 느낄 수 있는 원두로는 예멘 모카 마타리이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "초콜릿 맛을 가진 원두를 추천해 주세요.",
+        "response": "추천드릴 수 있는 초콜릿 맛의 원두는 과테말라 안티구아 SHB입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "아카시아 향이 나는 커피가 궁금해요.",
+        "response": "해당 원두는 에티오피아 아디스입니다. 아카시아 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "백도 향이 나는 원두가 있을까요?",
+        "response": "백도 향이 나는 원두로는 하와이안 코나 엑스트라팬시을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "파파야와 어울리는 커피 원두가 있나요?",
+        "response": "해당 원두는 콜롬비아 엘 트리운포 핑크브루봉 디카페인입니다. 파파야 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "오렌지 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 에티오피아 짐마입니다. 오렌지 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Apple Jam 향이 나는 커피가 궁금해요.",
+        "response": "Apple Jam 향을 느낄 수 있는 원두로는 에티오피아 아리차 G1 에이미 '문규 셀렉션' 내츄럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "딸기 향이 나는 원두가 있을까요?",
+        "response": "딸기 향을 느낄 수 있는 원두로는 파푸아뉴기니 마라와카 블루마운틴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "깔끔함 향이 나는 원두가 있을까요?",
+        "response": "추천드릴 수 있는 깔끔함 맛의 원두는 코스타리카 웨스떼른 발리 산 크리스토발 라 베야 블랙허니입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Red Fruits 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 에콰도르 CVM 라 노리아 게이샤 워시드입니다. Red Fruits 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "초콜릿 향이 나는 원두가 있을까요?",
+        "response": "초콜릿 맛을 가진 추천 원두는 케냐 아이히더 AA plus입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "헤이즐넛와 어울리는 커피 원두가 있나요?",
+        "response": "헤이즐넛 향을 느낄 수 있는 원두로는 케냐 이노이 키안디에리 AA 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Vanilla Bean 향이 나는 원두가 있을까요?",
+        "response": "Vanilla Bean 맛을 가진 추천 원두는 인도네시아 만델링 G1입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Round Mouthfeel 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 Round Mouthfeel 맛의 원두는 콜롬비아 엘 파라이소 게이샤 레티 더블 아나에어로빅입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "베리 향이 나는 원두가 있을까요?",
+        "response": "베리 향이 나는 원두로는 페루 찬차마요을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "사과 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 콜롬비아 엘 파라이소 게이샤 레티 더블 아나에어로빅입니다. 사과 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "파파야 향이 나는 원두가 있을까요?",
+        "response": "파파야 맛을 가진 추천 원두는 파나마 세비지 커피스 게이샤 '이리디센스' CM 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "감귤와 어울리는 커피 원두가 있나요?",
+        "response": "감귤 맛을 가진 추천 원두는 케냐 루시 왐부이 이스테이트 AA 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "로즈마리와 어울리는 커피 원두가 있나요?",
+        "response": "로즈마리 맛을 가진 추천 원두는 콜롬비아 그랑하 라스 마가리타스 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "다크체리와 어울리는 커피 원두가 있나요?",
+        "response": "다크체리 향을 느낄 수 있는 원두로는 에티오피아 시다마 하다 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Black Currant 향이 나는 원두가 있을까요?",
+        "response": "해당 원두는 케냐 마구타 이스테이트 AA CM 내추럴입니다. Black Currant 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "말린 과일 향이 나는 원두가 있을까요?",
+        "response": "말린 과일 향이 나는 원두로는 탄자니아 AA을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Jicy 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 파나마 라마스투스 엘 부로 게이샤 워시드입니다. Jicy 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "grape 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "grape 맛을 가진 추천 원두는 코스타리카 비스타 알 피델 비야사치 내츄럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Silky 향이 나는 원두가 있을까요?",
+        "response": "추천드릴 수 있는 Silky 맛의 원두는 콜롬비아 엘 오브라제 게이샤 무산소 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Round Body 향이 나는 커피가 궁금해요.",
+        "response": "Round Body 향이 나는 원두로는 코스타리카 로스 쿠아르텔레스 야노 보니토 카투아이 블랙허니을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Mulberry 맛을 가진 원두를 추천해 주세요.",
+        "response": "Mulberry 향이 나는 원두로는 콜롬비아 그랑하 만델라 언에어로빅 내츄럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Lime Mojito 향이 나는 원두가 있을까요?",
+        "response": "Lime Mojito 맛을 가진 추천 원두는 콜롬비아 세로아즐 게이샤 하이브리드 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Mandarin 맛을 가진 원두를 추천해 주세요.",
+        "response": "Mandarin 향이 나는 원두로는 콜롬비아 세로아줄 게이샤 허니을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "풍선껌와 어울리는 커피 원두가 있나요?",
+        "response": "해당 원두는 케냐 루시 왐부이 이스테이트 AA 워시드입니다. 풍선껌 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "카카오닙스 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "카카오닙스 향을 느낄 수 있는 원두로는 에티오피아 모모라 워시드 G1이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "로즈마리와 어울리는 커피 원두가 있나요?",
+        "response": "로즈마리 맛을 가진 추천 원두는 브라질 파젠다 엄 Supreme Profiles입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "사과 맛을 가진 원두를 추천해 주세요.",
+        "response": "추천드릴 수 있는 사과 맛의 원두는 케냐 이노이 키안디에리 AA 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Sweet Aftertaste 향이 나는 원두가 있을까요?",
+        "response": "Sweet Aftertaste 향이 나는 원두로는 콜롬비아 엘 오브라제 게이샤 무산소 내추럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Sake와 어울리는 커피 원두가 있나요?",
+        "response": "해당 원두는 케냐 가라투아 게이샤 워시드입니다. Sake 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "비스킷와 어울리는 커피 원두가 있나요?",
+        "response": "비스킷 향을 느낄 수 있는 원두로는 코스타리카 카라존 티피카 레포사도 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Rum 향이 나는 커피가 궁금해요.",
+        "response": "Rum 맛을 가진 추천 원두는 에티오피아 예가체프 아라차 아도쉬 PG1 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "레몬그라스 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 레몬그라스 맛의 원두는 콜롬비아 세로아즐 게이샤 하이브리드 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Round Body 향이 나는 원두가 있을까요?",
+        "response": "Round Body 향을 느낄 수 있는 원두로는 코스타리카 비스타 알 피델 비야사치 내츄럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "딸기 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "딸기 향이 나는 원두로는 에티오피아 게데오 반코 고티티 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Cashew Nuts와 어울리는 커피 원두가 있나요?",
+        "response": "해당 원두는 페루 라 팔마 게이샤 워시드입니다. Cashew Nuts 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "White Peach 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "White Peach 향을 느낄 수 있는 원두로는 에티오피아 예가체프 G2이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Silky와 어울리는 커피 원두가 있나요?",
+        "response": "Silky 향이 나는 원두로는 케냐 마구타 이스테이트 내추럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "복숭아와 어울리는 커피 원두가 있나요?",
+        "response": "추천드릴 수 있는 복숭아 맛의 원두는 우간다 시피 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Unique Aftertaste 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Unique Aftertaste 맛을 가진 추천 원두는 코스타리카 볼칸 아줄 게이샤 이스트 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "조청 향이 나는 원두가 있을까요?",
+        "response": "해당 원두는 온두라스 산타바바라 에믹디온 파라이네마 내추럴입니다. 조청 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "단맛 향이 나는 원두가 있을까요?",
+        "response": "추천드릴 수 있는 단맛 맛의 원두는 콜롬비아 엘 오브라제 게이샤 무산소 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "베리 맛을 가진 원두를 추천해 주세요.",
+        "response": "베리 향이 나는 원두로는 콜롬비아 마난티알레스 델 프론티노 피닉스 게이샤 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Cinnamon 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 Cinnamon 맛의 원두는 콜롬비아 핀카 하르딘 펠리페 아실라 핑크 버본 무산소 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "허브와 어울리는 커피 원두가 있나요?",
+        "response": "허브 향을 느낄 수 있는 원두로는 콜롬비아 후일라 수프리모이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Black Berry와 어울리는 커피 원두가 있나요?",
+        "response": "Black Berry 향이 나는 원두로는 브라질 파젠다 엄 Supreme Profiles을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Quince 향이 나는 원두가 있을까요?",
+        "response": "Quince 향을 느낄 수 있는 원두로는 에티오피아 아리차 내추럴 G1이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Dried Mango 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 Dried Mango 맛의 원두는 파나마 나인티 플러스 게이샤 써멀릭 #23095입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "사과 향이 나는 커피가 궁금해요.",
+        "response": "사과 향이 나는 원두로는 콜롬비아 그랑하 라 에스페란자 게이샤 언에어로빅 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Yogurt 맛을 가진 원두를 추천해 주세요.",
+        "response": "Yogurt 향이 나는 원두로는 콜롬비아 룸브레라 시드라 락틱 내추럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "부드러운 산미와 어울리는 커피 원두가 있나요?",
+        "response": "부드러운 산미 향이 나는 원두로는 코스타리카 파라미 베니토 게이샤 옐로우 허니을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Concord Grape 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 콜롬비아 엘 트리운포 핑크브루봉 디카페인입니다. Concord Grape 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Coffee blossom와 어울리는 커피 원두가 있나요?",
+        "response": "추천드릴 수 있는 Coffee blossom 맛의 원두는 콜롬비아 모모스 셀렉션 라 플라타 버번 아루지 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Syruppy 향이 나는 원두가 있을까요?",
+        "response": "해당 원두는 예멘 모카 마타리입니다. Syruppy 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "계피와 어울리는 커피 원두가 있나요?",
+        "response": "해당 원두는 온두라스 제린 사가스투메 파카스 허니입니다. 계피 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Walnut 향이 나는 커피가 궁금해요.",
+        "response": "Walnut 향이 나는 원두로는 에티오피아 시다모 G1 봄베 와인 내추럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Stone Fruits 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Stone Fruits 향이 나는 원두로는 페루 라 피나 게이샤 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "과일와 어울리는 커피 원두가 있나요?",
+        "response": "과일 향이 나는 원두로는 코스타리카 엘 벤다발 카투아이 화이트 허니을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Stone Fruit 맛을 가진 원두를 추천해 주세요.",
+        "response": "추천드릴 수 있는 Stone Fruit 맛의 원두는 에티오피아 아리차 G1 에이미 '문규 셀렉션' 내츄럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "풍부한 바디감 향이 나는 원두가 있을까요?",
+        "response": "추천드릴 수 있는 풍부한 바디감 맛의 원두는 에콰도르 CVM 핀카 엘도라도 우쉬우쉬 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "당밀 향이 나는 원두가 있을까요?",
+        "response": "당밀 맛을 가진 추천 원두는 콜롬비아 핀카 하르딘 펠리페 아실라 핑크 버본 무산소 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "열대과일 향이 나는 원두가 있을까요?",
+        "response": "열대과일 맛을 가진 추천 원두는 콜롬비아 모모스 셀렉션 라 플라타 핑크버번 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "라벤더와 어울리는 커피 원두가 있나요?",
+        "response": "해당 원두는 콜롬비아 엘 트리운포 게이샤 세미 워시드입니다. 라벤더 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "화려한 과일 맛을 가진 원두를 추천해 주세요.",
+        "response": "화려한 과일 향이 나는 원두로는 콜롬비아 엘 트리운포 핑크부르봉 세미워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "시리얼 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "시리얼 향이 나는 원두로는 에티오피아 트와콕 셀렉션 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "카카오 향이 나는 커피가 궁금해요.",
+        "response": "해당 원두는 케냐 니에리입니다. 카카오 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "사탕수수 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 사탕수수 맛의 원두는 케냐 응가라투 AA 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Asian Plum 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 과테말라 안티구아 SHB입니다. Asian Plum 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "시럽와 어울리는 커피 원두가 있나요?",
+        "response": "시럽 맛을 가진 추천 원두는 과테말라 와이칸입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "헤이즐넛와 어울리는 커피 원두가 있나요?",
+        "response": "헤이즐넛 맛을 가진 추천 원두는 코스타리카 볼칸 아줄 게이샤 이스트 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "말린 과일 향이 나는 원두가 있을까요?",
+        "response": "해당 원두는 코스타리카 비스타 알 발레 피델 빌라사치 내추럴입니다. 말린 과일 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Yogurt 맛을 가진 원두를 추천해 주세요.",
+        "response": "추천드릴 수 있는 Yogurt 맛의 원두는 콜롬비아 엘 트리운포 핑크부르봉 세미워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Malt Whiskey 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 에콰도르 엘도라도 게이샤 워시드입니다. Malt Whiskey 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "자몽 향이 나는 커피가 궁금해요.",
+        "response": "해당 원두는 예멘 모카 마타리입니다. 자몽 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Orsemary 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 콜롬비아 엘 파라이소 게이샤 제오입니다. Orsemary 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "말린 과일 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 콜롬비아 핀카 하르딘 펠리페 아실라 핑크 버본 무산소 내추럴입니다. 말린 과일 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "오렌지 향이 나는 커피가 궁금해요.",
+        "response": "오렌지 향을 느낄 수 있는 원두로는 콜롬비아 엘 트리운포 게이샤 세미 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Grapefruit Juice 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Grapefruit Juice 향이 나는 원두로는 페루 라 팔마 게이샤 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Winy 맛을 가진 원두를 추천해 주세요.",
+        "response": "Winy 맛을 가진 추천 원두는 콜롬비아 그랑하 만델라 언에어로빅 내츄럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Winy 맛을 가진 원두를 추천해 주세요.",
+        "response": "Winy 향이 나는 원두로는 파나마 세비지 커피스 게이샤 '이리디센스' CM 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Lily 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 콜롬비아 엘 파라이소 게이샤 사케 써멀쇼크입니다. Lily 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Lemon Balm 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 Lemon Balm 맛의 원두는 코스타리카 돈 호엘 게이샤 화이트허니 옥션 랏입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Sparkling와 어울리는 커피 원두가 있나요?",
+        "response": "추천드릴 수 있는 Sparkling 맛의 원두는 온두라스 산타바바라 에믹디온 파라이네마 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "부드러움 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 부드러움 맛의 원두는 페루 찬차마요입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Nectarine 향이 나는 커피가 궁금해요.",
+        "response": "해당 원두는 케냐 분고마 쿠테레 워시드입니다. Nectarine 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "감귤 향이 나는 커피가 궁금해요.",
+        "response": "감귤 맛을 가진 추천 원두는 코스타리카 핀카 조이스 SL28 골드 허니입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Apple Jam 맛을 가진 원두를 추천해 주세요.",
+        "response": "Apple Jam 향이 나는 원두로는 콜롬비아 마난티알레스 델 프론티노 피닉스 게이샤 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "화려한 과일 맛을 가진 원두를 추천해 주세요.",
+        "response": "화려한 과일 향이 나는 원두로는 케냐 피베리을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Rose Tea와 어울리는 커피 원두가 있나요?",
+        "response": "Rose Tea 향을 느낄 수 있는 원두로는 콜롬비아 핀카 하르딘 펠리페 아실라 핑크 버본 무산소 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Concord Grape 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Concord Grape 맛을 가진 추천 원두는 콜롬비아 룸브레라 시드라 락틱 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Orsemary 향이 나는 원두가 있을까요?",
+        "response": "Orsemary 맛을 가진 추천 원두는 콜롬비아 모모스 셀렉션 라 플라타 핑크버번 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "스카치캔디 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 페루 라 팔마 게이샤 워시드입니다. 스카치캔디 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Orsemary 향이 나는 커피가 궁금해요.",
+        "response": "해당 원두는 코스타리카 비스타 알 발레 피델 빌라사치 내추럴입니다. Orsemary 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Dried Strawberry 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 파나마 카르멘 게이샤 워시드입니다. Dried Strawberry 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "검은콩 향이 나는 커피가 궁금해요.",
+        "response": "검은콩 향이 나는 원두로는 온두라스 제린 사가스투메 파카스 허니을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "히비스커스 향이 나는 커피가 궁금해요.",
+        "response": "히비스커스 맛을 가진 추천 원두는 파나마 엘리다 카투아이 ASD 내추럴 #T6D입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Dried Mango 맛을 가진 원두를 추천해 주세요.",
+        "response": "Dried Mango 향을 느낄 수 있는 원두로는 콜롬비아 빌라 테레사 게이샤 무산소 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "자스민 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 자스민 맛의 원두는 브라질 옐로우 버번입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "포도 향이 나는 커피가 궁금해요.",
+        "response": "포도 향을 느낄 수 있는 원두로는 에티오피아 시다모 벤사 봄베 에이미 G1 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "카라멜 향이 나는 커피가 궁금해요.",
+        "response": "해당 원두는 에콰도르 엘도라도 게이샤 워시드입니다. 카라멜 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "부드러움와 어울리는 커피 원두가 있나요?",
+        "response": "해당 원두는 온두라스 나타비다드 베니테즈 파카스 워시드입니다. 부드러움 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Candy 향이 나는 원두가 있을까요?",
+        "response": "해당 원두는 코스타리카 코페아 디버사 리베리카 언에어로빅 내추럴입니다. Candy 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Clementine와 어울리는 커피 원두가 있나요?",
+        "response": "Clementine 향이 나는 원두로는 디카페인 에티오피아 내추럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "스카치캔디 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "스카치캔디 맛을 가진 추천 원두는 과테말라 와이칸입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "백리향 향이 나는 커피가 궁금해요.",
+        "response": "백리향 맛을 가진 추천 원두는 브라질 옐로우 버번입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Lily와 어울리는 커피 원두가 있나요?",
+        "response": "추천드릴 수 있는 Lily 맛의 원두는 파나마 나인티 플러스 게이샤 워시드 #23196입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Jicy와 어울리는 커피 원두가 있나요?",
+        "response": "Jicy 향이 나는 원두로는 콜롬비아 핀카 포토시 시드라 허니을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "럼와 어울리는 커피 원두가 있나요?",
+        "response": "럼 맛을 가진 추천 원두는 콜롬비아 엘 파라이소 게이샤 사케 써멀쇼크입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "머스캣 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 머스캣 맛의 원두는 과테말라 아구아 티비아 게이샤 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Round Mouthfeel 향이 나는 원두가 있을까요?",
+        "response": "추천드릴 수 있는 Round Mouthfeel 맛의 원두는 인도 몬순 말라바르 AA입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Blue Berry 향이 나는 커피가 궁금해요.",
+        "response": "해당 원두는 과테말라 아구이요테스 마라고지페 내추럴입니다. Blue Berry 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Shine Muscat와 어울리는 커피 원두가 있나요?",
+        "response": "해당 원두는 파나마 아다우라 게이샤 네추럴 1402입니다. Shine Muscat 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "플로럴 향이 나는 커피가 궁금해요.",
+        "response": "플로럴 향이 나는 원두로는 과테말라 에르모사을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "풍부한 과실 향이 나는 커피가 궁금해요.",
+        "response": "풍부한 과실 맛을 가진 추천 원두는 인도 몬순 말라바르 AA입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Dried Cherry 향이 나는 원두가 있을까요?",
+        "response": "Dried Cherry 향이 나는 원두로는 과테말라 아구아 티비아 게이샤 내추럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Orange Juice 향이 나는 커피가 궁금해요.",
+        "response": "해당 원두는 콜롬비아 세로아즐 게이샤 하이브리드 워시드입니다. Orange Juice 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Dried fruit 맛을 가진 원두를 추천해 주세요.",
+        "response": "Dried fruit 향을 느낄 수 있는 원두로는 콜롬비아 카를로스이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Rose Tea 향이 나는 원두가 있을까요?",
+        "response": "Rose Tea 향을 느낄 수 있는 원두로는 페루 라 피나 게이샤 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Cacao nibs 맛을 가진 원두를 추천해 주세요.",
+        "response": "Cacao nibs 향이 나는 원두로는 케냐 분고마 쿠테레 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Sake 향이 나는 커피가 궁금해요.",
+        "response": "Sake 맛을 가진 추천 원두는 콜롬비아 카우카 디카페인 EA 23입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "grape와 어울리는 커피 원두가 있나요?",
+        "response": "추천드릴 수 있는 grape 맛의 원두는 파나마 카르멘 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Syrup 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 Syrup 맛의 원두는 콜롬비아 피탈리토 알토 아폰테 카투라 허니입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "청사과 맛을 가진 원두를 추천해 주세요.",
+        "response": "청사과 향을 느낄 수 있는 원두로는 케냐 키암부 AA이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Cinnamon 향이 나는 커피가 궁금해요.",
+        "response": "Cinnamon 향이 나는 원두로는 코스타리카 돈 카이토 카투아이 화이트 허니을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "아카시아와 어울리는 커피 원두가 있나요?",
+        "response": "아카시아 맛을 가진 추천 원두는 케냐 AA TOP입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "White Peach 향이 나는 원두가 있을까요?",
+        "response": "추천드릴 수 있는 White Peach 맛의 원두는 과테말라 인헤르토 페냐 블랑카 레전더리 게이샤 워시드 옥션 랏입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Pink Rose 맛을 가진 원두를 추천해 주세요.",
+        "response": "Pink Rose 향을 느낄 수 있는 원두로는 콜롬비아 룸브레라 시드라 락틱 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Round Body 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Round Body 맛을 가진 추천 원두는 파나마 카르멘 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Asian Plum 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Asian Plum 향을 느낄 수 있는 원두로는 파나마 새비지 게이샤 파라볼릭이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "열대과일 향이 나는 커피가 궁금해요.",
+        "response": "열대과일 맛을 가진 추천 원두는 브라질 페드로입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Grain 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Grain 향이 나는 원두로는 에티오피아 코케허니 G1을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "바닐라와 어울리는 커피 원두가 있나요?",
+        "response": "바닐라 향을 느낄 수 있는 원두로는 코스타리카 핀카 조이스 SL28 골드 허니이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Black Currant와 어울리는 커피 원두가 있나요?",
+        "response": "Black Currant 향이 나는 원두로는 콜롬비아 후일라 수프리모을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "레몬와 어울리는 커피 원두가 있나요?",
+        "response": "추천드릴 수 있는 레몬 맛의 원두는 과테말라 라 에르모사 파나마 게이샤 풀리 워시드 옥션 랏입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "장미 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "장미 향을 느낄 수 있는 원두로는 콜롬비아 엘 파라이소 게이샤 사케 써멀쇼크이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "깔끔함 향이 나는 원두가 있을까요?",
+        "response": "추천드릴 수 있는 깔끔함 맛의 원두는 파나마 카르멘 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Nectarine 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Nectarine 맛을 가진 추천 원두는 에티오피아 예가체프 G2입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "자스민와 어울리는 커피 원두가 있나요?",
+        "response": "자스민 맛을 가진 추천 원두는 파나마 세비지 커피 카투라 내츄럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Rose Tea 향이 나는 커피가 궁금해요.",
+        "response": "해당 원두는 코스타리카 핀카 조이스 SL28 골드 허니입니다. Rose Tea 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "버터스카치 향이 나는 원두가 있을까요?",
+        "response": "해당 원두는 에티오피아 아리차 아도시 블랙허니 T.O.H 2위입니다. 버터스카치 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "히비스커스 향이 나는 원두가 있을까요?",
+        "response": "추천드릴 수 있는 히비스커스 맛의 원두는 코스타리카 라 리아 SL28 레드 허니입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "밀크초콜릿 향이 나는 원두가 있을까요?",
+        "response": "밀크초콜릿 향이 나는 원두로는 케냐 티리리카 눈두 AA 풀리 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "백합와 어울리는 커피 원두가 있나요?",
+        "response": "백합 향을 느낄 수 있는 원두로는 에티오피아 예가체프 아리차 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Round Body 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Round Body 향을 느낄 수 있는 원두로는 콜롬비아 라 에스메랄다 게이샤 언에어로빅 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "히비스커스 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 에티오피아 트와콕 피베리 내추럴입니다. 히비스커스 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Walnut와 어울리는 커피 원두가 있나요?",
+        "response": "추천드릴 수 있는 Walnut 맛의 원두는 에티오피아 알로 모스토 언에어로빅 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Orsemary와 어울리는 커피 원두가 있나요?",
+        "response": "Orsemary 향을 느낄 수 있는 원두로는 케냐 이노이 키안디에리 AA 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "멜론 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "멜론 향을 느낄 수 있는 원두로는 코스타리카 볼칸 아줄 게이샤 이스트 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "블랙베리 향이 나는 원두가 있을까요?",
+        "response": "블랙베리 맛을 가진 추천 원두는 콜롬비아 그랑하 부에노스 아이레스 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Lemon Balm 향이 나는 커피가 궁금해요.",
+        "response": "Lemon Balm 맛을 가진 추천 원두는 브라질 파젠다 엄 Supreme Profiles입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Concord Grape 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Concord Grape 맛을 가진 추천 원두는 과테말라 라 에르모사 파나마 게이샤 풀리 워시드 옥션 랏입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Purple fruity 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Purple fruity 맛을 가진 추천 원두는 코스타리카 플로르 드 몬타나 게이샤 레드 허니입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Malt와 어울리는 커피 원두가 있나요?",
+        "response": "추천드릴 수 있는 Malt 맛의 원두는 에티오피아 시다모 벤사 하메소 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Dried Orange 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Dried Orange 향을 느낄 수 있는 원두로는 파나마 아다우라 게이샤 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "블루베리 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "블루베리 향을 느낄 수 있는 원두로는 콜롬비아 카사 네그라 게이샤 언에어로빅 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Concord Grape 향이 나는 원두가 있을까요?",
+        "response": "Concord Grape 맛을 가진 추천 원두는 에티오피아 시다모 G1 봄베 와인 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Mandarin와 어울리는 커피 원두가 있나요?",
+        "response": "Mandarin 향을 느낄 수 있는 원두로는 과테말라 플란 디 라 베가 허니이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "풍선껌 향이 나는 원두가 있을까요?",
+        "response": "풍선껌 향을 느낄 수 있는 원두로는 케냐 마구타 이스테이트 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "풍부한 바디감와 어울리는 커피 원두가 있나요?",
+        "response": "풍부한 바디감 맛을 가진 추천 원두는 파나마 세비지 커피스 게이샤 'Anthem' CM 내츄럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "라벤더 맛을 가진 원두를 추천해 주세요.",
+        "response": "추천드릴 수 있는 라벤더 맛의 원두는 과테말라 와이칸입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Hazelnuts 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 파나마 엘 베로 하시엔다 라 에스메랄다 게이샤 워시드입니다. Hazelnuts 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Fresh Butter 향이 나는 원두가 있을까요?",
+        "response": "해당 원두는 콜롬비아 산아구스틴 마운틴워터 프로세스 디카프입니다. Fresh Butter 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "깔끔함 향이 나는 커피가 궁금해요.",
+        "response": "해당 원두는 온두라스 나타비다드 베니테즈 파카스 워시드입니다. 깔끔함 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Rose Tea 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 콜롬비아 모모스 셀렉션 라 플라타 핑크버번 워시드입니다. Rose Tea 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "깔끔함 향이 나는 원두가 있을까요?",
+        "response": "해당 원두는 과테말라 아구아 티비아 게이샤 워시드입니다. 깔끔함 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Dried Cherry 향이 나는 커피가 궁금해요.",
+        "response": "Dried Cherry 맛을 가진 추천 원두는 콜롬비아 엘 파라이소 게이샤 허니입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Sweet Orange 향이 나는 원두가 있을까요?",
+        "response": "추천드릴 수 있는 Sweet Orange 맛의 원두는 에티오피아 벤치 마지 게샤 G1 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "패션프루트 맛을 가진 원두를 추천해 주세요.",
+        "response": "추천드릴 수 있는 패션프루트 맛의 원두는 브라질 세하도 파인컵 NY2입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "좋은 바디감와 어울리는 커피 원두가 있나요?",
+        "response": "추천드릴 수 있는 좋은 바디감 맛의 원두는 콜롬비아 산 어거스틴 라우리나 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "레드와인 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "레드와인 맛을 가진 추천 원두는 에티오피아 아리차 내추럴 G1입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Lemon peels 맛을 가진 원두를 추천해 주세요.",
+        "response": "Lemon peels 향이 나는 원두로는 에티오피아 시다마 타미루 칠라카 무산소 내추럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "체리와 어울리는 커피 원두가 있나요?",
+        "response": "체리 맛을 가진 추천 원두는 에티오피아 구지 함벨라 고로 언에어로빅 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Cane Sugar 향이 나는 원두가 있을까요?",
+        "response": "Cane Sugar 향을 느낄 수 있는 원두로는 케냐 니에리이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Apple Mango 맛을 가진 원두를 추천해 주세요.",
+        "response": "Apple Mango 향을 느낄 수 있는 원두로는 과테말라 라 에르모사 에티오피아 게이샤 풀리 워시드 옥션 랏이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "오크와 어울리는 커피 원두가 있나요?",
+        "response": "오크 향을 느낄 수 있는 원두로는 코스타리카 아시엔다 코페이 카렌 빌라사치 무산소 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Sweet Orange 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 Sweet Orange 맛의 원두는 콜롬비아 그랑하 라스 마가리타스 게이샤 내츄럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Walnut와 어울리는 커피 원두가 있나요?",
+        "response": "Walnut 맛을 가진 추천 원두는 페루 잉카 루미 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "히비스커스 향이 나는 원두가 있을까요?",
+        "response": "히비스커스 맛을 가진 추천 원두는 케냐 분고마 쿠테레 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "브라운슈가 향이 나는 커피가 궁금해요.",
+        "response": "브라운슈가 향이 나는 원두로는 콜롬비아 엘 파라이소 게이샤 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Mango Juice 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 콜롬비아 세로아줄 게이샤 허니입니다. Mango Juice 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "라즈베리 향이 나는 커피가 궁금해요.",
+        "response": "라즈베리 맛을 가진 추천 원두는 콜롬비아 엘 트리운포 핑크브루봉 디카페인입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Lily 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 Lily 맛의 원두는 콜롬비아 모모스 셀렉션 라 플라타 버번 아루지 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "깔끔함 향이 나는 커피가 궁금해요.",
+        "response": "깔끔함 향을 느낄 수 있는 원두로는 콜롬비아 엘 파라이소 게이샤 레티 더블 아나에어로빅이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "사탕수수 향이 나는 커피가 궁금해요.",
+        "response": "사탕수수 맛을 가진 추천 원두는 인도네시아 만델링 G1입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "샤인머스캣 향이 나는 커피가 궁금해요.",
+        "response": "해당 원두는 에콰도르 크루즈 로마 게이샤 워시드입니다. 샤인머스캣 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Spearmint와 어울리는 커피 원두가 있나요?",
+        "response": "해당 원두는 케냐 이노이 키안디에리 AA 워시드입니다. Spearmint 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Basil 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 Basil 맛의 원두는 에티오피아 시다모 벤사 봄베 에이미 G1 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Tropical Blueberry 맛을 가진 원두를 추천해 주세요.",
+        "response": "Tropical Blueberry 맛을 가진 추천 원두는 ﻿인도 마이소르 너깃 엑스트라 볼드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "다크체리 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 에티오피아 벤치 마지 게샤 G1 내추럴입니다. 다크체리 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "단맛 향이 나는 원두가 있을까요?",
+        "response": "추천드릴 수 있는 단맛 맛의 원두는 콜롬비아 마난티알레스입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "베리 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 콜롬비아 핀카 하르딘 펠리페 아실라 핑크 버본 무산소 내추럴입니다. 베리 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "사과 향이 나는 원두가 있을까요?",
+        "response": "사과 향을 느낄 수 있는 원두로는 페루 라 팔마 게이샤 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "허브 향이 나는 원두가 있을까요?",
+        "response": "해당 원두는 콜롬비아 세로아즐 게이샤 하이브리드 워시드입니다. 허브 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "균형잡힌 산미 맛을 가진 원두를 추천해 주세요.",
+        "response": "균형잡힌 산미 향을 느낄 수 있는 원두로는 코스타리카 엘 벤다발 카투아이 화이트 허니이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Cane Sugar 맛을 가진 원두를 추천해 주세요.",
+        "response": "Cane Sugar 맛을 가진 추천 원두는 콜롬비아 핀카 포토시 시드라 허니입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "플로럴 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 플로럴 맛의 원두는 케냐 응가라투 AA 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Red Apple 향이 나는 원두가 있을까요?",
+        "response": "Red Apple 향을 느낄 수 있는 원두로는 에콰도르 CVM 라 노리아 게이샤 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "홍차 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 콜롬비아 우일라 레인보우 디카페인입니다. 홍차 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "보리 향이 나는 원두가 있을까요?",
+        "response": "추천드릴 수 있는 보리 맛의 원두는 콜롬비아 피탈리토 알토 아폰테 카투라 허니입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Blue Berry 향이 나는 원두가 있을까요?",
+        "response": "Blue Berry 향을 느낄 수 있는 원두로는 콜롬비아 카우카 디카페인 EA 23이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Rose Tea 향이 나는 원두가 있을까요?",
+        "response": "Rose Tea 맛을 가진 추천 원두는 케냐 티리리카 눈두 AA 풀리 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "부드러운 산미 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 에티오피아 구지 모모라 내추럴 G1입니다. 부드러운 산미 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "블랙체리 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 페루 라 루쿠마 게이샤 워시드입니다. 블랙체리 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Dried white floral 향이 나는 커피가 궁금해요.",
+        "response": "해당 원두는 코스타리카 아시엔다 코페이 카렌 빌라사치 무산소 내추럴입니다. Dried white floral 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Papaya 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 과테말라 엘 인헤르토 레전드리 라스 밀파스 게이샤 워시드입니다. Papaya 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Round Mouthfeel 맛을 가진 원두를 추천해 주세요.",
+        "response": "추천드릴 수 있는 Round Mouthfeel 맛의 원두는 에티오피아 예가체프 G2입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "비정제 설탕 향이 나는 커피가 궁금해요.",
+        "response": "해당 원두는 에티오피아 예가체프 G2입니다. 비정제 설탕 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Asian Plum 맛을 가진 원두를 추천해 주세요.",
+        "response": "Asian Plum 맛을 가진 추천 원두는 과테말라 에르모사입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Coffee blossom 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 브라질 페드로입니다. Coffee blossom 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Nectarine 맛을 가진 원두를 추천해 주세요.",
+        "response": "Nectarine 향을 느낄 수 있는 원두로는 콜롬비아 산 어거스틴 라우리나 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "딸기 향이 나는 원두가 있을까요?",
+        "response": "해당 원두는 에티오피아 게데오 반코 고티티 워시드입니다. 딸기 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "당밀 향이 나는 원두가 있을까요?",
+        "response": "당밀 맛을 가진 추천 원두는 코스타리카 라 리아 SL28 레드 허니입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "시럽 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "시럽 향을 느낄 수 있는 원두로는 에티오피아 알로 모스토 언에어로빅 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Cane Sugar 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Cane Sugar 맛을 가진 추천 원두는 에티오피아 구지 우라가 74112 내추럴 A.F.C.A#1입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "리치 향이 나는 커피가 궁금해요.",
+        "response": "리치 맛을 가진 추천 원두는 케냐 가라투아 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "자몽 맛을 가진 원두를 추천해 주세요.",
+        "response": "추천드릴 수 있는 자몽 맛의 원두는 콜롬비아 그랑하 라스 마가리타스 게이샤 내츄럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "건포도 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "건포도 맛을 가진 추천 원두는 콜롬비아 세로아줄 게이샤 허니입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Dried white floral 향이 나는 커피가 궁금해요.",
+        "response": "Dried white floral 향을 느낄 수 있는 원두로는 파나마 코토와 던칸 게이샤 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "차와 같은 깨끗함 향이 나는 원두가 있을까요?",
+        "response": "차와 같은 깨끗함 맛을 가진 추천 원두는 파나마 세비지 커피 카투라 내츄럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "건포도 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "건포도 향이 나는 원두로는 콜롬비아 산아구스틴 마운틴워터 프로세스 디카프을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "딸기 풍선껌 맛을 가진 원두를 추천해 주세요.",
+        "response": "딸기 풍선껌 향이 나는 원두로는 에콰도르 CVM 라 노리아 게이샤 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "비정제 설탕와 어울리는 커피 원두가 있나요?",
+        "response": "추천드릴 수 있는 비정제 설탕 맛의 원두는 콜롬비아 엘 파라이소 리치 더블 아나에어로빅입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Fruit Candy 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 Fruit Candy 맛의 원두는 파나마 나인티 플러스 게이샤 써멀릭 #23095입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "레드와인 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 콜롬비아 엘 파라이소 게이샤 제오입니다. 레드와인 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Black Berry 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Black Berry 맛을 가진 추천 원두는 파나마 카르멘 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Black Currant 향이 나는 원두가 있을까요?",
+        "response": "Black Currant 향이 나는 원두로는 페루 엘 쿠엘로 카투아이 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Fresh Butter 맛을 가진 원두를 추천해 주세요.",
+        "response": "Fresh Butter 향이 나는 원두로는 콜롬비아 모모스 셀렉션 라 플라타 버번 아루지 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Jicy 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 파나마 카르멘 게이샤 워시드입니다. Jicy 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Cacao nibs와 어울리는 커피 원두가 있나요?",
+        "response": "해당 원두는 파나마 롱보드 미스틱 마운틴 게이샤 바이오 다이나믹 워시드입니다. Cacao nibs 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "꿀 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "꿀 향이 나는 원두로는 콜롬비아 엘 파라이소 게이샤 사케 써멀쇼크을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "프루티 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 에티오피아 예가체프 G2입니다. 프루티 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "자스민 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 자스민 맛의 원두는 온두라스 엘 아구아카테 버번 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Apple Mango와 어울리는 커피 원두가 있나요?",
+        "response": "Apple Mango 맛을 가진 추천 원두는 파나마 아다우라 게이샤 ASD 내추럴 DF입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "베리 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 에티오피아 아리차 내추럴 G1입니다. 베리 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "시트러스 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 시트러스 맛의 원두는 파나마 나인티 플러스 게이샤 워시드 #23196입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Milky Body 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 에티오피아 하루수케 언에어로빅 내츄럴입니다. Milky Body 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "긴 여운 향이 나는 원두가 있을까요?",
+        "response": "긴 여운 향을 느낄 수 있는 원두로는 코스타리카 플로르 드 몬타나 게이샤 레드 허니이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "홍차와 어울리는 커피 원두가 있나요?",
+        "response": "홍차 향이 나는 원두로는 파나마 엘 베로 하시엔다 라 에스메랄다 게이샤 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Round Body와 어울리는 커피 원두가 있나요?",
+        "response": "추천드릴 수 있는 Round Body 맛의 원두는 코스타리카 엘 벤다발 카투아이 화이트 허니입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Round Mouthfeel 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Round Mouthfeel 맛을 가진 추천 원두는 온두라스 제린 사가스투메 파카스 허니입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Vanilla Bean 향이 나는 원두가 있을까요?",
+        "response": "해당 원두는 콜롬비아 세로아즐 게이샤 하이브리드 워시드입니다. Vanilla Bean 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "홍차와 어울리는 커피 원두가 있나요?",
+        "response": "홍차 향을 느낄 수 있는 원두로는 에티오피아 게데오 반코 고티티 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "과일 향이 나는 원두가 있을까요?",
+        "response": "추천드릴 수 있는 과일 맛의 원두는 에티오피아 달레차 내츄럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "헤이즐넛 향이 나는 커피가 궁금해요.",
+        "response": "헤이즐넛 향이 나는 원두로는 파나마 아다우라 게이샤 네추럴 1402을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Yellow - Peach 맛을 가진 원두를 추천해 주세요.",
+        "response": "Yellow - Peach 맛을 가진 추천 원두는 에티오피아 트와콕 피베리 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "망고 맛을 가진 원두를 추천해 주세요.",
+        "response": "망고 맛을 가진 추천 원두는 에티오피아 반코 타라투 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "시리얼 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 시리얼 맛의 원두는 파나마 라마스투스 엘 부로 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Rose Tea 맛을 가진 원두를 추천해 주세요.",
+        "response": "Rose Tea 향을 느낄 수 있는 원두로는 콜롬비아 마난티알레스이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Grapefruit Juice와 어울리는 커피 원두가 있나요?",
+        "response": "추천드릴 수 있는 Grapefruit Juice 맛의 원두는 파나마 나인티 플러스 게이샤 워시드 #23196입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "블루베리와 어울리는 커피 원두가 있나요?",
+        "response": "해당 원두는 코스타리카 비스타 알 피델 비야사치 내츄럴입니다. 블루베리 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "망고와 어울리는 커피 원두가 있나요?",
+        "response": "망고 향을 느낄 수 있는 원두로는 에티오피아 코케허니 G1이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "꿀 향이 나는 원두가 있을까요?",
+        "response": "추천드릴 수 있는 꿀 맛의 원두는 콜롬비아 모모스 셀렉션 라 플라타 버번 아루지 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Sweet Aftertaste 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 에티오피아 구지 함벨라 고로 언에어로빅 내추럴입니다. Sweet Aftertaste 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Apple Mango 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Apple Mango 향을 느낄 수 있는 원두로는 콜롬비아 엘 파라이소 리치 더블 아나에어로빅이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "헤이즐넛 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 콜롬비아 엘 파라이소 게이샤 레티 더블 아나에어로빅입니다. 헤이즐넛 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "부드러운 산미 향이 나는 커피가 궁금해요.",
+        "response": "부드러운 산미 향이 나는 원두로는 콜롬비아 엘 파라이소 게이샤 레티 더블 아나에어로빅을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Blue Berry 맛을 가진 원두를 추천해 주세요.",
+        "response": "Blue Berry 향이 나는 원두로는 에티오피아 모모라 워시드 G1을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "균형잡힌 산미 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "균형잡힌 산미 향이 나는 원두로는 에티오피아 구지 우라가 74112 내추럴 A.F.C.A#1을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "시트러스와 어울리는 커피 원두가 있나요?",
+        "response": "시트러스 향을 느낄 수 있는 원두로는 에티오피아 예가체프 아라차 아도쉬 PG1 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Milky Body 향이 나는 원두가 있을까요?",
+        "response": "해당 원두는 콜롬비아 엘 파라이소 게이샤 사케 써멀쇼크입니다. Milky Body 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "부드러움 맛을 가진 원두를 추천해 주세요.",
+        "response": "부드러움 향을 느낄 수 있는 원두로는 콜롬비아 나리뇨 벨런 라 레이나 게이샤 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "크랜베리 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "크랜베리 향을 느낄 수 있는 원두로는 콜롬비아 엘 오브라헤 게이샤 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "얼그레이 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "얼그레이 향이 나는 원두로는 과테말라 플란 디 라 베가 허니을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Malt Whiskey 맛을 가진 원두를 추천해 주세요.",
+        "response": "추천드릴 수 있는 Malt Whiskey 맛의 원두는 ﻿인도 마이소르 너깃 엑스트라 볼드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Pomegrante 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 Pomegrante 맛의 원두는 예멘 알-라마디 피코랏 진테제 바서가이스트입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "다크체리 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 다크체리 맛의 원두는 코스타리카 웨스떼른 발리 산 크리스토발 라 베야 블랙허니입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "꿀 향이 나는 커피가 궁금해요.",
+        "response": "꿀 맛을 가진 추천 원두는 에티오피아 예가체프 G2입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Dried Prune와 어울리는 커피 원두가 있나요?",
+        "response": "추천드릴 수 있는 Dried Prune 맛의 원두는 코스타리카 웨스떼른 발리 산 크리스토발 라 베야 블랙허니입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "멜론 향이 나는 원두가 있을까요?",
+        "response": "멜론 향을 느낄 수 있는 원두로는 케냐 가라투아 게이샤 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "백리향 향이 나는 커피가 궁금해요.",
+        "response": "백리향 맛을 가진 추천 원두는 과테말라 엘 인헤르토 레전드리 라스 밀파스 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Lavender 향이 나는 원두가 있을까요?",
+        "response": "Lavender 향을 느낄 수 있는 원두로는 콜롬비아 룸브레라 시드라 락틱 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "조청 맛을 가진 원두를 추천해 주세요.",
+        "response": "조청 맛을 가진 추천 원두는 에티오피아 시다마 하다 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "라벤더 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 라벤더 맛의 원두는 콜롬비아 세로아즐 게이샤 하이브리드 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "키위 향이 나는 원두가 있을까요?",
+        "response": "추천드릴 수 있는 키위 맛의 원두는 케냐 AA TOP입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Malt Whiskey 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 Malt Whiskey 맛의 원두는 브라질 스위스 워터 프로세스 디카페인입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Cacao nibs 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 Cacao nibs 맛의 원두는 브라질 페드로입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "망고 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "망고 향이 나는 원두로는 인도네시아 아체가요 G1을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Walnut 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Walnut 향이 나는 원두로는 에콰도르 크루즈 로마 게이샤 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Lemon peels 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 콜롬비아 후일라 라 플라타 AA 워시드입니다. Lemon peels 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "백도 향이 나는 원두가 있을까요?",
+        "response": "백도 맛을 가진 추천 원두는 예멘 모카 마타리입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "자스민 향이 나는 원두가 있을까요?",
+        "response": "추천드릴 수 있는 자스민 맛의 원두는 콜롬비아 엘 트리운포 게이샤 세미 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Lime Mojito 맛을 가진 원두를 추천해 주세요.",
+        "response": "추천드릴 수 있는 Lime Mojito 맛의 원두는 페루 라 팔마 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "쥬시 맛을 가진 원두를 추천해 주세요.",
+        "response": "쥬시 향을 느낄 수 있는 원두로는 콜롬비아 엘 오브라제 게이샤 무산소 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Lime Mojito 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Lime Mojito 향이 나는 원두로는 콜롬비아 카우카 디카페인 EA 23을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "볶은 곡물 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 에티오피아 코케허니 G1입니다. 볶은 곡물 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Dried Mango 향이 나는 원두가 있을까요?",
+        "response": "Dried Mango 향이 나는 원두로는 콜롬비아 수프리모을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "스카치캔디 향이 나는 커피가 궁금해요.",
+        "response": "스카치캔디 맛을 가진 추천 원두는 과테말라 인헤르토 페냐 블랑카 레전더리 게이샤 워시드 옥션 랏입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "플로럴 맛을 가진 원두를 추천해 주세요.",
+        "response": "플로럴 향을 느낄 수 있는 원두로는 에티오피아 코케허니 G1이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "오렌지 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 에티오피아 예가체프 G1 아리차 워시드입니다. 오렌지 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Dried white floral와 어울리는 커피 원두가 있나요?",
+        "response": "Dried white floral 맛을 가진 추천 원두는 콜롬비아 엘 파라이소 게이샤 레티 더블 아나에어로빅입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "The scent of a flower 향이 나는 커피가 궁금해요.",
+        "response": "The scent of a flower 향이 나는 원두로는 파나마 엘 베로 하시엔다 라 에스메랄다 게이샤 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Milky Body와 어울리는 커피 원두가 있나요?",
+        "response": "Milky Body 향이 나는 원두로는 콜롬비아 카사 네그라 게이샤 언에어로빅 내추럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "깔끔함와 어울리는 커피 원두가 있나요?",
+        "response": "추천드릴 수 있는 깔끔함 맛의 원두는 페루 엘 쿠엘로 카투아이 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "풍부한 바디감 향이 나는 커피가 궁금해요.",
+        "response": "해당 원두는 파나마 새비지 게이샤 파라볼릭입니다. 풍부한 바디감 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Sweet Orange와 어울리는 커피 원두가 있나요?",
+        "response": "추천드릴 수 있는 Sweet Orange 맛의 원두는 케냐 분고마 쿠테레 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Prune와 어울리는 커피 원두가 있나요?",
+        "response": "Prune 향을 느낄 수 있는 원두로는 코스타리카 비스타 알 피델 비야사치 내츄럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "베리 향이 나는 원두가 있을까요?",
+        "response": "추천드릴 수 있는 베리 맛의 원두는 코스타리카 코페아 디버사 리베리카 언에어로빅 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Yogurt 향이 나는 커피가 궁금해요.",
+        "response": "Yogurt 맛을 가진 추천 원두는 에티오피아 시다모 G1 봄베 와인 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Nectarine 향이 나는 커피가 궁금해요.",
+        "response": "Nectarine 맛을 가진 추천 원두는 콜롬비아 엘 파라이소 게이샤 레티 더블 아나에어로빅입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "화려한 과일와 어울리는 커피 원두가 있나요?",
+        "response": "추천드릴 수 있는 화려한 과일 맛의 원두는 콜롬비아 세로아즐 게이샤 하이브리드 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Very Complex와 어울리는 커피 원두가 있나요?",
+        "response": "Very Complex 맛을 가진 추천 원두는 과테말라 라 에르모사 에티오피아 게이샤 풀리 워시드 옥션 랏입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "카카오 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 케냐 응가라투 AA 워시드입니다. 카카오 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Unique Aftertaste 향이 나는 커피가 궁금해요.",
+        "response": "Unique Aftertaste 향이 나는 원두로는 콜롬비아 엘 트리운포 게이샤 세미 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "자스민 향이 나는 원두가 있을까요?",
+        "response": "해당 원두는 에티오피아 반코 타라투 워시드입니다. 자스민 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "라임 향이 나는 원두가 있을까요?",
+        "response": "라임 향이 나는 원두로는 에티오피아 아리차 내추럴 G1을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "라임 맛을 가진 원두를 추천해 주세요.",
+        "response": "라임 맛을 가진 추천 원두는 에티오피아 트와콕 피베리 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "백합 향이 나는 커피가 궁금해요.",
+        "response": "백합 맛을 가진 추천 원두는 콜롬비아 그랑하 만델라 언에어로빅 내츄럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Silky 맛을 가진 원두를 추천해 주세요.",
+        "response": "추천드릴 수 있는 Silky 맛의 원두는 코스타리카 아시엔다 코페이 카렌 빌라사치 무산소 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Sparkling 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 에콰도르 CVM 라 노리아 게이샤 워시드입니다. Sparkling 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "샤인머스캣와 어울리는 커피 원두가 있나요?",
+        "response": "해당 원두는 케냐 마구타 이스테이트 내추럴입니다. 샤인머스캣 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Brown sugar 맛을 가진 원두를 추천해 주세요.",
+        "response": "Brown sugar 향을 느낄 수 있는 원두로는 에티오피아 구지 함벨라 고로 언에어로빅 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "백리향 맛을 가진 원두를 추천해 주세요.",
+        "response": "백리향 향을 느낄 수 있는 원두로는 케냐 키암부 AA이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "초콜릿 향이 나는 원두가 있을까요?",
+        "response": "초콜릿 맛을 가진 추천 원두는 콜롬비아 나리뇨 벨런 라 레이나 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "라즈베리 맛을 가진 원두를 추천해 주세요.",
+        "response": "추천드릴 수 있는 라즈베리 맛의 원두는 과테말라 와이칸입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Coriander seed 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Coriander seed 맛을 가진 추천 원두는 코스타리카 퀘브라다 그란데 모카 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "부드러움와 어울리는 커피 원두가 있나요?",
+        "response": "부드러움 향이 나는 원두로는 페루 라 루쿠마 게이샤 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "탠저린 맛을 가진 원두를 추천해 주세요.",
+        "response": "탠저린 향을 느낄 수 있는 원두로는 코스타리카 라 리아 SL28 레드 허니이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "버터스카치 향이 나는 원두가 있을까요?",
+        "response": "버터스카치 맛을 가진 추천 원두는 파나마 나인티 플러스 게이샤 써멀릭 #23095입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "버터스카치 향이 나는 원두가 있을까요?",
+        "response": "버터스카치 향이 나는 원두로는 탄자니아 킬리만자로 AA 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Dried Mango 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Dried Mango 향을 느낄 수 있는 원두로는 에콰도르 CVM 핀카 엘도라도 우쉬우쉬 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Pomegrante 맛을 가진 원두를 추천해 주세요.",
+        "response": "추천드릴 수 있는 Pomegrante 맛의 원두는 파나마 나인티 플러스 게이샤 써멀릭 #23095입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "풍선껌 향이 나는 커피가 궁금해요.",
+        "response": "풍선껌 향을 느낄 수 있는 원두로는 콜롬비아 피탈리토 알토 아폰테 카투라 허니이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "사과 향이 나는 커피가 궁금해요.",
+        "response": "사과 향이 나는 원두로는 파나마 나인티 플러스 게이샤 써멀릭 #23095을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Winy 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 Winy 맛의 원두는 브라질 옐로우 버번입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "긴 여운와 어울리는 커피 원두가 있나요?",
+        "response": "긴 여운 맛을 가진 추천 원두는 에티오피아 반코 타라투 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Medium Body 향이 나는 원두가 있을까요?",
+        "response": "Medium Body 맛을 가진 추천 원두는 콜롬비아 엘 파라이소 게이샤 허니입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Sweet Aftertaste 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Sweet Aftertaste 향을 느낄 수 있는 원두로는 과테말라 아구아 티비아 게이샤 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "차와 같은 깨끗함 향이 나는 커피가 궁금해요.",
+        "response": "차와 같은 깨끗함 향이 나는 원두로는 케냐 니에리을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Hazelnuts 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Hazelnuts 맛을 가진 추천 원두는 케냐 티리리카 눈두 AA 풀리 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Oriental Melon 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 Oriental Melon 맛의 원두는 콜롬비아 수프리모입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "좋은 밸런스와 어울리는 커피 원두가 있나요?",
+        "response": "좋은 밸런스 향을 느낄 수 있는 원두로는 콜롬비아 핀카 하르딘 펠리페 아실라 핑크 버본 무산소 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "카카오닙스 향이 나는 원두가 있을까요?",
+        "response": "카카오닙스 향이 나는 원두로는 콜롬비아 엘 파라이소 리치 더블 아나에어로빅을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Fresh Butter 맛을 가진 원두를 추천해 주세요.",
+        "response": "Fresh Butter 맛을 가진 추천 원두는 콜롬비아 우일라 레인보우 디카페인입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Dried Prune 맛을 가진 원두를 추천해 주세요.",
+        "response": "Dried Prune 맛을 가진 추천 원두는 페루 라 팔마 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Champagne 향이 나는 커피가 궁금해요.",
+        "response": "Champagne 맛을 가진 추천 원두는 콜롬비아 세로아즐 게이샤 하이브리드 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "무화과 향이 나는 커피가 궁금해요.",
+        "response": "무화과 향을 느낄 수 있는 원두로는 코스타리카 돈 카이토 게이샤 옐로 허니이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Orange Juice와 어울리는 커피 원두가 있나요?",
+        "response": "해당 원두는 케냐 마구타 이스테이트 내추럴입니다. Orange Juice 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Concord Grape와 어울리는 커피 원두가 있나요?",
+        "response": "해당 원두는 탄자니아 킬리만자로 AA 워시드입니다. Concord Grape 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "백합와 어울리는 커피 원두가 있나요?",
+        "response": "백합 향이 나는 원두로는 콜롬비아 수프리모을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Stone Fruit 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 콜롬비아 카를로스입니다. Stone Fruit 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Mulberry 향이 나는 원두가 있을까요?",
+        "response": "해당 원두는 코스타리카 엘 벤다발 카투아이 화이트 허니입니다. Mulberry 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Lemon Balm 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 페루 잉카 루미 게이샤 워시드입니다. Lemon Balm 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "자두 향이 나는 원두가 있을까요?",
+        "response": "자두 향을 느낄 수 있는 원두로는 온두라스 벤하민 파즈라 살사 게이샤 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "시트러스 맛을 가진 원두를 추천해 주세요.",
+        "response": "시트러스 맛을 가진 추천 원두는 에티오피아 벤치 마지 게샤 G1 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "꿀와 어울리는 커피 원두가 있나요?",
+        "response": "꿀 맛을 가진 추천 원두는 인도네시아 아체가요 G1입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "포도 향이 나는 커피가 궁금해요.",
+        "response": "포도 맛을 가진 추천 원두는 에티오피아 시다모 G1 봄베 와인 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Jicy 맛을 가진 원두를 추천해 주세요.",
+        "response": "Jicy 향을 느낄 수 있는 원두로는 콜롬비아 엘 트리운포 핑크부르봉 세미워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Passion Fruit 맛을 가진 원두를 추천해 주세요.",
+        "response": "추천드릴 수 있는 Passion Fruit 맛의 원두는 코스타리카 따라주 SHB입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "샤인머스캣 향이 나는 원두가 있을까요?",
+        "response": "샤인머스캣 맛을 가진 추천 원두는 코스타리카 아시엔다 코페이 카렌 빌라사치 무산소 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Silky와 어울리는 커피 원두가 있나요?",
+        "response": "추천드릴 수 있는 Silky 맛의 원두는 에티오피아 시다모 G2입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Red apple와 어울리는 커피 원두가 있나요?",
+        "response": "Red apple 향을 느낄 수 있는 원두로는 파나마 라마스투스 엘 부로 게이샤 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Pomegrante 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 Pomegrante 맛의 원두는 에티오피아 부르사 G1 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Candy 향이 나는 원두가 있을까요?",
+        "response": "Candy 맛을 가진 추천 원두는 에티오피아 게데오 반코 고티티 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Orange Juice 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Orange Juice 향이 나는 원두로는 에티오피아 구지 모모라 내추럴 G1을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Red Apple 향이 나는 원두가 있을까요?",
+        "response": "해당 원두는 콜롬비아 라 에스메랄다 게이샤 언에어로빅 내추럴입니다. Red Apple 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Syrup 향이 나는 원두가 있을까요?",
+        "response": "Syrup 맛을 가진 추천 원두는 파나마 라마스투스 엘 부로 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Sweet Orange 맛을 가진 원두를 추천해 주세요.",
+        "response": "Sweet Orange 향을 느낄 수 있는 원두로는 에티오피아 코케허니 G1이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Cashew Nuts와 어울리는 커피 원두가 있나요?",
+        "response": "해당 원두는 콜롬비아 엘 파라이소 게이샤 제오입니다. Cashew Nuts 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "검은콩와 어울리는 커피 원두가 있나요?",
+        "response": "검은콩 맛을 가진 추천 원두는 에티오피아 트와콕 피베리 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Yellow - Peach 향이 나는 원두가 있을까요?",
+        "response": "Yellow - Peach 향을 느낄 수 있는 원두로는 콜롬비아 산 어거스틴 라우리나 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Sweet Aftertaste 향이 나는 원두가 있을까요?",
+        "response": "추천드릴 수 있는 Sweet Aftertaste 맛의 원두는 콜롬비아 빌라 테레사 게이샤 무산소 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "석류 향이 나는 커피가 궁금해요.",
+        "response": "석류 향을 느낄 수 있는 원두로는 콜롬비아 마난티알레스 델 프론티노 피닉스 게이샤 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Sage 향이 나는 원두가 있을까요?",
+        "response": "해당 원두는 온두라스 엘 아구아카테 버번 워시드입니다. Sage 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Lemon Balm와 어울리는 커피 원두가 있나요?",
+        "response": "추천드릴 수 있는 Lemon Balm 맛의 원두는 콜롬비아 카를로스입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Sake와 어울리는 커피 원두가 있나요?",
+        "response": "해당 원두는 파나마 새비지 게이샤 파라볼릭입니다. Sake 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Sake 향이 나는 원두가 있을까요?",
+        "response": "Sake 맛을 가진 추천 원두는 콜롬비아 룸브레라 시드라 락틱 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "조청 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "조청 향을 느낄 수 있는 원두로는 인도네시아 만델링 G1이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Lime Mojito 향이 나는 커피가 궁금해요.",
+        "response": "Lime Mojito 맛을 가진 추천 원두는 콜롬비아 그랑하 라스 마가리타스 게이샤 내츄럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "긴 여운 맛을 가진 원두를 추천해 주세요.",
+        "response": "긴 여운 향이 나는 원두로는 콜롬비아 엘 파라이소 게이샤 레티 더블 아나에어로빅을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Very Complex 맛을 가진 원두를 추천해 주세요.",
+        "response": "Very Complex 맛을 가진 추천 원두는 페루 라 루쿠마 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Milky Body 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Milky Body 향이 나는 원두로는 우간다 시피 내추럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Cashew Nuts 향이 나는 원두가 있을까요?",
+        "response": "Cashew Nuts 향을 느낄 수 있는 원두로는 에티오피아 아디스이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Blue Berry 향이 나는 원두가 있을까요?",
+        "response": "추천드릴 수 있는 Blue Berry 맛의 원두는 콜롬비아 산아구스틴 마운틴워터 프로세스 디카프입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Syruppy 향이 나는 커피가 궁금해요.",
+        "response": "Syruppy 향을 느낄 수 있는 원두로는 탄자니아 AA이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Cashew Nuts 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 Cashew Nuts 맛의 원두는 케냐 AA TOP입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Delicate 맛을 가진 원두를 추천해 주세요.",
+        "response": "추천드릴 수 있는 Delicate 맛의 원두는 코스타리카 재규어허니 SHB입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "시리얼 향이 나는 원두가 있을까요?",
+        "response": "시리얼 맛을 가진 추천 원두는 코스타리카 비스타 알 발레 피델 빌라사치 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "베르가못 향이 나는 원두가 있을까요?",
+        "response": "베르가못 향이 나는 원두로는 과테말라 아구아 티비아 게이샤 내추럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Dark Cherry 맛을 가진 원두를 추천해 주세요.",
+        "response": "Dark Cherry 맛을 가진 추천 원두는 파나마 카르멘 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "멜론 향이 나는 커피가 궁금해요.",
+        "response": "멜론 향을 느낄 수 있는 원두로는 코스타리카 핀카 조이스 SL28 골드 허니이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "차와 같은 깨끗함 향이 나는 커피가 궁금해요.",
+        "response": "차와 같은 깨끗함 향이 나는 원두로는 콜롬비아 마난티알레스을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "감귤 향이 나는 원두가 있을까요?",
+        "response": "추천드릴 수 있는 감귤 맛의 원두는 페루 라 루쿠마 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Stone Fruits 향이 나는 원두가 있을까요?",
+        "response": "해당 원두는 콜롬비아 산 어거스틴 라우리나 워시드입니다. Stone Fruits 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "석류 향이 나는 원두가 있을까요?",
+        "response": "석류 향을 느낄 수 있는 원두로는 콜롬비아 엘 파라이소 리치 더블 아나에어로빅이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "코코아 향이 나는 원두가 있을까요?",
+        "response": "추천드릴 수 있는 코코아 맛의 원두는 콜롬비아 엘 트리운포 핑크부르봉 세미워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Lime Mojito 향이 나는 원두가 있을까요?",
+        "response": "Lime Mojito 향이 나는 원두로는 코스타리카 아시엔다 코페이 카렌 빌라사치 무산소 내추럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "grape 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 콜롬비아 카사 네그라 게이샤 언에어로빅 내추럴입니다. grape 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "멜론 맛을 가진 원두를 추천해 주세요.",
+        "response": "멜론 맛을 가진 추천 원두는 과테말라 아구이요테스 마라고지페 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Tropical Blueberry 향이 나는 원두가 있을까요?",
+        "response": "해당 원두는 에티오피아 달레차 내츄럴입니다. Tropical Blueberry 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "당밀 맛을 가진 원두를 추천해 주세요.",
+        "response": "당밀 향을 느낄 수 있는 원두로는 에티오피아 코케허니 G1이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "grape 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 grape 맛의 원두는 에티오피아 코케허니 G1입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "백도 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 케냐 뚱구리 AA 워시드입니다. 백도 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Silky Body 향이 나는 원두가 있을까요?",
+        "response": "해당 원두는 파나마 카르멘 게이샤 워시드입니다. Silky Body 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "다크초콜릿 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 다크초콜릿 맛의 원두는 에티오피아 시다모 벤사 하메소 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "레몬그라스와 어울리는 커피 원두가 있나요?",
+        "response": "해당 원두는 파나마 아다우라 게이샤 ASD 내추럴 DF입니다. 레몬그라스 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Orsemary 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 Orsemary 맛의 원두는 파나마 에스메랄다 팔미라 에스테이트입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "풍선껌 향이 나는 원두가 있을까요?",
+        "response": "풍선껌 맛을 가진 추천 원두는 과테말라 라 에르모사 에티오피아 게이샤 풀리 워시드 옥션 랏입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "리치 향이 나는 원두가 있을까요?",
+        "response": "해당 원두는 에티오피아 게데오 반코 고티티 워시드입니다. 리치 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "살구 향이 나는 원두가 있을까요?",
+        "response": "살구 향이 나는 원두로는 케냐 아이히더 AA plus을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Asian Plum와 어울리는 커피 원두가 있나요?",
+        "response": "Asian Plum 맛을 가진 추천 원두는 에티오피아 짐마입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "견과류 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 멕시코 치아파스 마운틴워터 디카페인입니다. 견과류 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Syruppy 맛을 가진 원두를 추천해 주세요.",
+        "response": "Syruppy 맛을 가진 추천 원두는 콜롬비아 핀카 하르딘 펠리페 아실라 핑크 버본 무산소 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "키위와 어울리는 커피 원두가 있나요?",
+        "response": "키위 향을 느낄 수 있는 원두로는 케냐 쿠시엔다 AB 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "비정제 설탕 향이 나는 커피가 궁금해요.",
+        "response": "비정제 설탕 향을 느낄 수 있는 원두로는 콜롬비아 라 에스메랄다 게이샤 언에어로빅 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "블러드 오렌지 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 블러드 오렌지 맛의 원두는 코스타리카 비스타 알 발레 피델 빌라사치 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "코코아 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "코코아 맛을 가진 추천 원두는 파나마 하라미요 하시엔다 라 에스메랄다 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "복숭아 향이 나는 커피가 궁금해요.",
+        "response": "복숭아 향을 느낄 수 있는 원두로는 파나마 아다우라 게이샤 네추럴 1402이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Concord Grape 향이 나는 원두가 있을까요?",
+        "response": "Concord Grape 향이 나는 원두로는 인도네시아 만델링 G1을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Milky Body 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 Milky Body 맛의 원두는 케냐 니에리입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "견과류 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "견과류 향을 느낄 수 있는 원두로는 케냐 마구타 이스테이트 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Clean Cup 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Clean Cup 향이 나는 원두로는 예멘 알-라마디 피코랏 진테제 바서가이스트을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "자스민와 어울리는 커피 원두가 있나요?",
+        "response": "자스민 향이 나는 원두로는 에콰도르 엘도라도 게이샤 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Cinnamon 향이 나는 원두가 있을까요?",
+        "response": "Cinnamon 향이 나는 원두로는 에티오피아 예가체프 G2을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "딸기 향이 나는 원두가 있을까요?",
+        "response": "해당 원두는 페루 라스 에티오페스 게이샤 내츄럴입니다. 딸기 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "라임 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 콜롬비아 엘 파라이소 게이샤 사케 써멀쇼크입니다. 라임 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Orange Juice 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Orange Juice 맛을 가진 추천 원두는 에티오피아 짐마입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "머스캣 향이 나는 원두가 있을까요?",
+        "response": "해당 원두는 파나마 엘 베로 하시엔다 라 에스메랄다 게이샤 워시드입니다. 머스캣 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Malt 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Malt 맛을 가진 추천 원두는 에티오피아 예가체프 G2입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Silky 향이 나는 커피가 궁금해요.",
+        "response": "Silky 향이 나는 원두로는 페루 치리로마 스페셜 리저브 게이샤 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "보리 맛을 가진 원두를 추천해 주세요.",
+        "response": "보리 향이 나는 원두로는 콜롬비아 모모스 셀렉션 라 플라타 버번 아루지 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "포도 향이 나는 원두가 있을까요?",
+        "response": "포도 맛을 가진 추천 원두는 에티오피아 시다모 벤사 하메소 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "풍성한 피니시 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 콜롬비아 마난티알레스 델 프론티노 피닉스 게이샤 워시드입니다. 풍성한 피니시 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Malt Whiskey 향이 나는 커피가 궁금해요.",
+        "response": "Malt Whiskey 향을 느낄 수 있는 원두로는 에콰도르 엘도라도 게이샤 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "장미 향이 나는 원두가 있을까요?",
+        "response": "장미 맛을 가진 추천 원두는 에티오피아 게샤 빌리지 오마 게이샤 1931 내추럴 GV4 옥션 랏입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "조청 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "조청 향이 나는 원두로는 코스타리카 볼칸 아줄 게이샤 이스트 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "베르가못 향이 나는 커피가 궁금해요.",
+        "response": "베르가못 향이 나는 원두로는 콜롬비아 후일라 라 플라타 AA 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "허브 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 허브 맛의 원두는 파나마 롱보드 미스틱 마운틴 게이샤 바이오 다이나믹 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "풍성한 피니시와 어울리는 커피 원두가 있나요?",
+        "response": "풍성한 피니시 향이 나는 원두로는 에티오피아 시다모 G1 봄베 와인 내추럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "계피 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "계피 향을 느낄 수 있는 원두로는 코스타리카 따라주 SHB이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "초콜릿 향이 나는 원두가 있을까요?",
+        "response": "초콜릿 향이 나는 원두로는 예멘 알-라마디 피코랏 진테제 바서가이스트을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "허브 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 허브 맛의 원두는 에티오피아 코케허니 G1입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Cinnamon와 어울리는 커피 원두가 있나요?",
+        "response": "추천드릴 수 있는 Cinnamon 맛의 원두는 콜롬비아 카우카 디카페인 EA 23입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Vanilla Bean 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Vanilla Bean 향을 느낄 수 있는 원두로는 파나마 라마스투스 엘 부로 게이샤 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "비정제 설탕 향이 나는 커피가 궁금해요.",
+        "response": "비정제 설탕 향이 나는 원두로는 케냐 카마빈디 AA 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Cane Sugar 향이 나는 원두가 있을까요?",
+        "response": "Cane Sugar 향을 느낄 수 있는 원두로는 브라질 세하도 파인컵 NY2이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "밀크초콜릿와 어울리는 커피 원두가 있나요?",
+        "response": "밀크초콜릿 향이 나는 원두로는 콜롬비아 핀카 하르딘 펠리페 아실라 핑크 버본 무산소 내추럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Candy와 어울리는 커피 원두가 있나요?",
+        "response": "Candy 향을 느낄 수 있는 원두로는 콜롬비아 후일라 라 플라타 AA 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "쥬시 맛을 가진 원두를 추천해 주세요.",
+        "response": "쥬시 향을 느낄 수 있는 원두로는 콜롬비아 핀카 포토시 시드라 허니이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "사탕수수와 어울리는 커피 원두가 있나요?",
+        "response": "사탕수수 향을 느낄 수 있는 원두로는 파나마 엘 베로 하시엔다 라 에스메랄다 게이샤 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "블랙베리 향이 나는 커피가 궁금해요.",
+        "response": "블랙베리 향이 나는 원두로는 케냐 니에리을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Apple Jam 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Apple Jam 향이 나는 원두로는 콜롬비아 시그니쳐 디카페인 셀렉션을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Mandarin 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Mandarin 향을 느낄 수 있는 원두로는 파나마 에스메랄다 팔미라 에스테이트이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "자스민 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 온두라스 제린 사가스투메 파카스 허니입니다. 자스민 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Prune 향이 나는 커피가 궁금해요.",
+        "response": "Prune 맛을 가진 추천 원두는 콜롬비아 엘 파라이소 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Purple fruity 맛을 가진 원두를 추천해 주세요.",
+        "response": "Purple fruity 맛을 가진 추천 원두는 에콰도르 크루즈 로마 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "감귤 향이 나는 원두가 있을까요?",
+        "response": "감귤 향이 나는 원두로는 파나마 롱보드 미스틱 마운틴 게이샤 바이오 다이나믹 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "패션프루트 향이 나는 커피가 궁금해요.",
+        "response": "패션프루트 향을 느낄 수 있는 원두로는 코스타리카 카라존 티피카 레포사도 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "깔끔함와 어울리는 커피 원두가 있나요?",
+        "response": "해당 원두는 과테말라 메디나 RFA 워시드 SHB입니다. 깔끔함 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Dark Cherry와 어울리는 커피 원두가 있나요?",
+        "response": "Dark Cherry 향을 느낄 수 있는 원두로는 에티오피아 아디스이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Dried Cherry 맛을 가진 원두를 추천해 주세요.",
+        "response": "Dried Cherry 맛을 가진 추천 원두는 브라질 옐로우버본 펄프드 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "백리향 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "백리향 향이 나는 원두로는 탄자니아 킬리만자로 AA 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Medium Body 향이 나는 커피가 궁금해요.",
+        "response": "Medium Body 맛을 가진 추천 원두는 에티오피아 트와콕 셀렉션 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Pomegrante와 어울리는 커피 원두가 있나요?",
+        "response": "해당 원두는 과테말라 에르모사입니다. Pomegrante 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Quince 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 케냐 피베리입니다. Quince 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "부드러움 맛을 가진 원두를 추천해 주세요.",
+        "response": "부드러움 향이 나는 원두로는 에티오피아 시다마 하다 내추럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Dried Prune 향이 나는 커피가 궁금해요.",
+        "response": "Dried Prune 향을 느낄 수 있는 원두로는 과테말라 아구이요테스 마라고지페 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Hazelnuts 향이 나는 커피가 궁금해요.",
+        "response": "Hazelnuts 맛을 가진 추천 원두는 콜롬비아 세로아줄 게이샤 허니입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Mango Juice 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 Mango Juice 맛의 원두는 코스타리카 웨스떼른 발리 산 크리스토발 라 베야 블랙허니입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "단맛 맛을 가진 원두를 추천해 주세요.",
+        "response": "단맛 향이 나는 원두로는 파나마 잰슨 게이샤 세미 언에어로빅 내추럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "풍성한 피니시 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 파나마 카르멘 게이샤 워시드입니다. 풍성한 피니시 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "포도 향이 나는 원두가 있을까요?",
+        "response": "추천드릴 수 있는 포도 맛의 원두는 코스타리카 퀘브라다 그란데 모카 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Stone Fruits 향이 나는 원두가 있을까요?",
+        "response": "Stone Fruits 향이 나는 원두로는 에티오피아 트와콕 피베리 내추럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "다크체리 향이 나는 커피가 궁금해요.",
+        "response": "다크체리 향이 나는 원두로는 과테말라 안티구아 SHB을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "카카오닙스와 어울리는 커피 원두가 있나요?",
+        "response": "카카오닙스 향이 나는 원두로는 에콰도르 크루즈 로마 게이샤 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "히비스커스 향이 나는 원두가 있을까요?",
+        "response": "추천드릴 수 있는 히비스커스 맛의 원두는 에티오피아 벤치 마지 게샤 G1 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "풍부한 바디감 향이 나는 커피가 궁금해요.",
+        "response": "풍부한 바디감 맛을 가진 추천 원두는 파나마 세비지 커피스 게이샤 '이리디센스' CM 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "건포도 맛을 가진 원두를 추천해 주세요.",
+        "response": "건포도 향이 나는 원두로는 콜롬비아 시그니쳐 디카페인 셀렉션을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Malt Whiskey 향이 나는 커피가 궁금해요.",
+        "response": "Malt Whiskey 맛을 가진 추천 원두는 에티오피아 코케허니 G1입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "자두와 어울리는 커피 원두가 있나요?",
+        "response": "자두 맛을 가진 추천 원두는 파나마 엘리다 카투아이 ASD 내추럴 #T6D입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "백합와 어울리는 커피 원두가 있나요?",
+        "response": "백합 맛을 가진 추천 원두는 케냐 피베리입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Oriental Melon와 어울리는 커피 원두가 있나요?",
+        "response": "Oriental Melon 맛을 가진 추천 원두는 콜롬비아 세로아즐 게이샤 하이브리드 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "라벤더 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 라벤더 맛의 원두는 에티오피아 벤치 마지 게샤 G1 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Dried white floral와 어울리는 커피 원두가 있나요?",
+        "response": "Dried white floral 맛을 가진 추천 원두는 에티오피아 아리차 아도시 블랙허니 T.O.H 2위입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "텐저린 향이 나는 커피가 궁금해요.",
+        "response": "텐저린 향을 느낄 수 있는 원두로는 파나마 나인티 플러스 게이샤 워시드 #23196이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Dried fruit와 어울리는 커피 원두가 있나요?",
+        "response": "Dried fruit 맛을 가진 추천 원두는 케냐 마구타 이스테이트 AA CM 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Eucalyptus 향이 나는 원두가 있을까요?",
+        "response": "Eucalyptus 향을 느낄 수 있는 원두로는 온두라스 제린 사가스투메 파카스 허니이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "건포도 향이 나는 커피가 궁금해요.",
+        "response": "건포도 향이 나는 원두로는 에티오피아 달레차 내츄럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Lemon Balm 맛을 가진 원두를 추천해 주세요.",
+        "response": "Lemon Balm 향이 나는 원두로는 과테말라 와이칸을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "아카시아 향이 나는 원두가 있을까요?",
+        "response": "아카시아 향을 느낄 수 있는 원두로는 에티오피아 시다마 코코세 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "체리 맛을 가진 원두를 추천해 주세요.",
+        "response": "추천드릴 수 있는 체리 맛의 원두는 에티오피아 구지 함벨라 고로 언에어로빅 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "레드와인와 어울리는 커피 원두가 있나요?",
+        "response": "추천드릴 수 있는 레드와인 맛의 원두는 페루 라 루쿠마 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Passion Fruit 향이 나는 원두가 있을까요?",
+        "response": "Passion Fruit 향이 나는 원두로는 에티오피아 시다모 G1 봄베 와인 내추럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Apple Mango 맛을 가진 원두를 추천해 주세요.",
+        "response": "추천드릴 수 있는 Apple Mango 맛의 원두는 코스타리카 퀘브라다 그란데 모카 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "백도 향이 나는 커피가 궁금해요.",
+        "response": "백도 향이 나는 원두로는 에티오피아 하루수케 언에어로빅 내츄럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "비정제 설탕 향이 나는 커피가 궁금해요.",
+        "response": "해당 원두는 인도네시아 만델링 G1입니다. 비정제 설탕 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Nectarine 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Nectarine 향이 나는 원두로는 코스타리카 카라존 티피카 레포사도 내추럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "파파야 향이 나는 커피가 궁금해요.",
+        "response": "해당 원두는 콜롬비아 엘 파라이소 게이샤 레티 더블 아나에어로빅입니다. 파파야 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "브라운슈가와 어울리는 커피 원두가 있나요?",
+        "response": "브라운슈가 맛을 가진 추천 원두는 케냐 니에리입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Assam Tea 향이 나는 원두가 있을까요?",
+        "response": "Assam Tea 맛을 가진 추천 원두는 케냐 아이히더 AA plus입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "딸기 풍선껌 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 케냐 루시 왐부이 이스테이트 AA 워시드입니다. 딸기 풍선껌 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Jicy 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 콜롬비아 나리뇨 벨런 라 레이나 게이샤 워시드입니다. Jicy 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "럼와 어울리는 커피 원두가 있나요?",
+        "response": "럼 향이 나는 원두로는 파나마 아다우라 게이샤 네추럴 1402을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "살구 맛을 가진 원두를 추천해 주세요.",
+        "response": "추천드릴 수 있는 살구 맛의 원두는 에티오피아 예가체프 이디도 내추럴 G1입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Cascara와 어울리는 커피 원두가 있나요?",
+        "response": "Cascara 향을 느낄 수 있는 원두로는 코스타리카 퀘브라다 그란데 모카 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "레몬 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "레몬 맛을 가진 추천 원두는 콜롬비아 엘 트리운포 핑크브루봉 디카페인입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Lavender와 어울리는 커피 원두가 있나요?",
+        "response": "Lavender 맛을 가진 추천 원두는 콜롬비아 우일라 레인보우 디카페인입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "건포도 향이 나는 원두가 있을까요?",
+        "response": "추천드릴 수 있는 건포도 맛의 원두는 파나마 엘 베로 하시엔다 라 에스메랄다 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "플로럴 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "플로럴 맛을 가진 추천 원두는 탄자니아 킬리만자로 AA 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "레몬그라스 향이 나는 커피가 궁금해요.",
+        "response": "레몬그라스 향이 나는 원두로는 코스타리카 카라존 티피카 레포사도 내추럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Dark Chocoltae 맛을 가진 원두를 추천해 주세요.",
+        "response": "Dark Chocoltae 향이 나는 원두로는 멕시코 치아파스 마운틴워터 디카페인을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Passion Fruit 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Passion Fruit 맛을 가진 추천 원두는 에티오피아 구지 모모라 내추럴 G1입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Velvety 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 Velvety 맛의 원두는 ﻿인도 마이소르 너깃 엑스트라 볼드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "아카시아 향이 나는 커피가 궁금해요.",
+        "response": "아카시아 향이 나는 원두로는 콜롬비아 카를로스을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Syrup와 어울리는 커피 원두가 있나요?",
+        "response": "추천드릴 수 있는 Syrup 맛의 원두는 과테말라 엘 피날 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "쥬시 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 쥬시 맛의 원두는 케냐 니에리입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Mandarin 향이 나는 원두가 있을까요?",
+        "response": "Mandarin 향을 느낄 수 있는 원두로는 콜롬비아 엘 트리운포 게이샤 세미 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Stone Fruits 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 Stone Fruits 맛의 원두는 에콰도르 엘도라도 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Mango 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 에티오피아 아리차 내추럴 G1입니다. Mango 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "사탕수수 향이 나는 커피가 궁금해요.",
+        "response": "사탕수수 맛을 가진 추천 원두는 케냐 피베리입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Red apple 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Red apple 맛을 가진 추천 원두는 에티오피아 코케허니 G1입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "풍부한 과실 맛을 가진 원두를 추천해 주세요.",
+        "response": "풍부한 과실 향을 느낄 수 있는 원두로는 디카페인 에티오피아 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "백리향 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 백리향 맛의 원두는 에티오피아 아리차 G1 에이미 '문규 셀렉션' 내츄럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Rosehip와 어울리는 커피 원두가 있나요?",
+        "response": "Rosehip 향이 나는 원두로는 에티오피아 반코 타라투 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "로즈마리와 어울리는 커피 원두가 있나요?",
+        "response": "추천드릴 수 있는 로즈마리 맛의 원두는 에티오피아 아리차 G1 에이미 '문규 셀렉션' 내츄럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "레몬와 어울리는 커피 원두가 있나요?",
+        "response": "추천드릴 수 있는 레몬 맛의 원두는 콜롬비아 모모스 셀렉션 라 플라타 버번 아루지 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Silky 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Silky 향이 나는 원두로는 콜롬비아 엘 오브라헤 게이샤 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Pear Puree 향이 나는 원두가 있을까요?",
+        "response": "Pear Puree 맛을 가진 추천 원두는 과테말라 라 에르모사 에티오피아 게이샤 풀리 워시드 옥션 랏입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Red Apple 향이 나는 원두가 있을까요?",
+        "response": "Red Apple 향이 나는 원두로는 콜롬비아 엘 파라이소 레드플럼을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "과일 향이 나는 원두가 있을까요?",
+        "response": "추천드릴 수 있는 과일 맛의 원두는 케냐 뚱구리 AA 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Cashew Nuts 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 코스타리카 핀카 조이스 SL28 골드 허니입니다. Cashew Nuts 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "부드러운 산미 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 콜롬비아 피탈리토 알토 아폰테 카투라 허니입니다. 부드러운 산미 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Black Currant와 어울리는 커피 원두가 있나요?",
+        "response": "추천드릴 수 있는 Black Currant 맛의 원두는 과테말라 에르모사입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Pink Rose 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 에콰도르 산 아구스틴 시드라 내추럴입니다. Pink Rose 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "딸기 풍선껌 향이 나는 커피가 궁금해요.",
+        "response": "딸기 풍선껌 맛을 가진 추천 원두는 콜롬비아 엘 파라이소 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "허브 향이 나는 커피가 궁금해요.",
+        "response": "허브 향을 느낄 수 있는 원두로는 과테말라 엘 모리또이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "헤이즐넛와 어울리는 커피 원두가 있나요?",
+        "response": "해당 원두는 콜롬비아 엘 파라이소 카투라 워시드입니다. 헤이즐넛 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Syrup 향이 나는 커피가 궁금해요.",
+        "response": "Syrup 향을 느낄 수 있는 원두로는 페루 치리로마 스페셜 리저브 게이샤 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "자두 향이 나는 커피가 궁금해요.",
+        "response": "자두 향을 느낄 수 있는 원두로는 코스타리카 따라주 SHB이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "헤이즐넛 향이 나는 커피가 궁금해요.",
+        "response": "헤이즐넛 향을 느낄 수 있는 원두로는 파나마 세비지 커피스 게이샤 '이리디센스' CM 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Apple Mango 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Apple Mango 향을 느낄 수 있는 원두로는 과테말라 안티구아이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Coffee blossom 향이 나는 커피가 궁금해요.",
+        "response": "Coffee blossom 향을 느낄 수 있는 원두로는 페루 라 팔마 게이샤 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "라즈베리 맛을 가진 원두를 추천해 주세요.",
+        "response": "라즈베리 향을 느낄 수 있는 원두로는 코스타리카 비스타 알 발레 피델 빌라사치 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "딸기 향이 나는 커피가 궁금해요.",
+        "response": "딸기 맛을 가진 추천 원두는 코스타리카 파라미 베니토 게이샤 옐로우 허니입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Clementine와 어울리는 커피 원두가 있나요?",
+        "response": "Clementine 향을 느낄 수 있는 원두로는 온두라스 산타바바라 에믹디온 파라이네마 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "좋은 밸런스 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 좋은 밸런스 맛의 원두는 콜롬비아 빌라 테레사 게이샤 무산소 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "백도와 어울리는 커피 원두가 있나요?",
+        "response": "백도 맛을 가진 추천 원두는 콜롬비아 그랑하 라스 마가리타스 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Walnut와 어울리는 커피 원두가 있나요?",
+        "response": "Walnut 향이 나는 원두로는 코스타리카 코페아 디버사 리베리카 언에어로빅 내추럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "홍차 향이 나는 원두가 있을까요?",
+        "response": "추천드릴 수 있는 홍차 맛의 원두는 페루 잉카 루미 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Brown sugar 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 콜롬비아 나리뇨 벨런 라 레이나 게이샤 워시드입니다. Brown sugar 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "청사과 향이 나는 원두가 있을까요?",
+        "response": "해당 원두는 과테말라 에르모사입니다. 청사과 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Prune 맛을 가진 원두를 추천해 주세요.",
+        "response": "Prune 향을 느낄 수 있는 원두로는 케냐 마구타 이스테이트 AA CM 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Blue Berry와 어울리는 커피 원두가 있나요?",
+        "response": "Blue Berry 향이 나는 원두로는 콜롬비아 그랑하 만델라 X.O을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Purple fruity 맛을 가진 원두를 추천해 주세요.",
+        "response": "Purple fruity 향을 느낄 수 있는 원두로는 콜롬비아 엘 오브라헤 게이샤 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "열대과일 향이 나는 원두가 있을까요?",
+        "response": "추천드릴 수 있는 열대과일 맛의 원두는 과테말라 엘 모리또입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "패션프루트 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "패션프루트 향을 느낄 수 있는 원두로는 브라질 스위스 워터 프로세스 디카페인이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "좋은 바디감 향이 나는 커피가 궁금해요.",
+        "response": "좋은 바디감 맛을 가진 추천 원두는 콜롬비아 산 어거스틴 라우리나 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "grape 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "grape 향이 나는 원두로는 콜롬비아 그랑하 만델라 X.O을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "White Peach 향이 나는 원두가 있을까요?",
+        "response": "White Peach 향을 느낄 수 있는 원두로는 인도 몬순 말라바르 AA이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "다크초콜릿 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "다크초콜릿 향을 느낄 수 있는 원두로는 콜롬비아 모모스 셀렉션 라 플라타 핑크버번 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Brown sugar 향이 나는 원두가 있을까요?",
+        "response": "추천드릴 수 있는 Brown sugar 맛의 원두는 에티오피아 아리차 내추럴 G1입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "스카치캔디 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 브라질 세하도 파인컵 NY2입니다. 스카치캔디 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "열대과일 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 열대과일 맛의 원두는 코스타리카 퀘브라다 그란데 모카 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "복숭아 맛을 가진 원두를 추천해 주세요.",
+        "response": "추천드릴 수 있는 복숭아 맛의 원두는 페루 찬차마요입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "블러드 오렌지 향이 나는 커피가 궁금해요.",
+        "response": "블러드 오렌지 맛을 가진 추천 원두는 콜롬비아 그랑하 라 에스페란자 게이샤 언에어로빅 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "화려한 과일 향이 나는 커피가 궁금해요.",
+        "response": "해당 원두는 페루 잉카 루미 게이샤 워시드입니다. 화려한 과일 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "시럽 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 온두라스 나타비다드 베니테즈 파카스 워시드입니다. 시럽 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Silky 맛을 가진 원두를 추천해 주세요.",
+        "response": "Silky 향을 느낄 수 있는 원두로는 에티오피아 시다모 벤사 하메소 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Lavender 향이 나는 커피가 궁금해요.",
+        "response": "Lavender 맛을 가진 추천 원두는 페루 라 피나 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "긴 여운 맛을 가진 원두를 추천해 주세요.",
+        "response": "추천드릴 수 있는 긴 여운 맛의 원두는 에콰도르 CVM 핀카 엘도라도 우쉬우쉬 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "블러드 오렌지 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 블러드 오렌지 맛의 원두는 코스타리카 코페아 디버사 리베리카 언에어로빅 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "조청 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 코스타리카 비스타 알 피델 비야사치 내츄럴입니다. 조청 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Spearmint와 어울리는 커피 원두가 있나요?",
+        "response": "해당 원두는 케냐 마구타 이스테이트 내추럴입니다. Spearmint 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "grape와 어울리는 커피 원두가 있나요?",
+        "response": "grape 향을 느낄 수 있는 원두로는 파나마 카르멘 게이샤 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "버터스카치와 어울리는 커피 원두가 있나요?",
+        "response": "해당 원두는 파나마 나인티 플러스 게이샤 워시드 #23196입니다. 버터스카치 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Pine 향이 나는 원두가 있을까요?",
+        "response": "추천드릴 수 있는 Pine 맛의 원두는 페루 치리로마 스페셜 리저브 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Cane Sugar 향이 나는 원두가 있을까요?",
+        "response": "Cane Sugar 맛을 가진 추천 원두는 에티오피아 시다마 타미루 칠라카 무산소 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Cinnamon 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 Cinnamon 맛의 원두는 콜롬비아 그랑하 라 에스페란자 게이샤 언에어로빅 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Medium Body 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 케냐 AA입니다. Medium Body 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Purple fruity 향이 나는 원두가 있을까요?",
+        "response": "Purple fruity 맛을 가진 추천 원두는 브라질 페드로입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "호박 맛을 가진 원두를 추천해 주세요.",
+        "response": "호박 맛을 가진 추천 원두는 페루 라 팔마 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Cashew Nuts 향이 나는 커피가 궁금해요.",
+        "response": "Cashew Nuts 향을 느낄 수 있는 원두로는 온두라스 엘 아구아카테 버번 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "카카오닙스 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "카카오닙스 맛을 가진 추천 원두는 과테말라 안티구아입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "리치 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "리치 향을 느낄 수 있는 원두로는 파나마 나인티 플러스 게이샤 써멀릭 #23095이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "패션프루트 맛을 가진 원두를 추천해 주세요.",
+        "response": "패션프루트 향이 나는 원두로는 페루 라 팔마 게이샤 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Cane Sugar 향이 나는 커피가 궁금해요.",
+        "response": "해당 원두는 콜롬비아 모모스 셀렉션 라 플라타 핑크버번 워시드입니다. Cane Sugar 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Pomegrante 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 케냐 AA입니다. Pomegrante 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "White Peach와 어울리는 커피 원두가 있나요?",
+        "response": "해당 원두는 브라질 스위스 워터 프로세스 디카페인입니다. White Peach 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Grapefruit Juice와 어울리는 커피 원두가 있나요?",
+        "response": "Grapefruit Juice 향을 느낄 수 있는 원두로는 케냐 니에리이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "베르가못 맛을 가진 원두를 추천해 주세요.",
+        "response": "베르가못 향을 느낄 수 있는 원두로는 에티오피아 트와콕 셀렉션 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "꿀 향이 나는 원두가 있을까요?",
+        "response": "꿀 맛을 가진 추천 원두는 브라질 옐로우버본 펄프드 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "풍부한 과실 향이 나는 커피가 궁금해요.",
+        "response": "풍부한 과실 향이 나는 원두로는 콜롬비아 세로아즐 게이샤 하이브리드 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Mandarin 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Mandarin 맛을 가진 추천 원두는 콜롬비아 엘 파라이소 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "사탕수수 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "사탕수수 향이 나는 원두로는 우간다 시피 내추럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "당밀 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "당밀 맛을 가진 추천 원두는 브라질 옐로우버본 펄프드 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Date 맛을 가진 원두를 추천해 주세요.",
+        "response": "Date 맛을 가진 추천 원두는 브라질 옐로우 버번입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Candy와 어울리는 커피 원두가 있나요?",
+        "response": "추천드릴 수 있는 Candy 맛의 원두는 에티오피아 시다마 타미루 칠라카 무산소 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "베르가못 향이 나는 원두가 있을까요?",
+        "response": "베르가못 향을 느낄 수 있는 원두로는 과테말라 아구아 티비아 게이샤 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "초콜릿 맛을 가진 원두를 추천해 주세요.",
+        "response": "초콜릿 맛을 가진 추천 원두는 코스타리카 돈 카이토 게이샤 옐로 허니입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Black Berry 향이 나는 커피가 궁금해요.",
+        "response": "Black Berry 향을 느낄 수 있는 원두로는 케냐 카마빈디 AA 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "프루티 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "프루티 향을 느낄 수 있는 원두로는 인도네시아 만델링 G1이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "좋은 밸런스 향이 나는 커피가 궁금해요.",
+        "response": "해당 원두는 파나마 아다우라 게이샤 네추럴 1402입니다. 좋은 밸런스 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "오크 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "오크 맛을 가진 추천 원두는 과테말라 메디나 RFA 워시드 SHB입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Medium Body와 어울리는 커피 원두가 있나요?",
+        "response": "Medium Body 맛을 가진 추천 원두는 에티오피아 예가체프 아라차 아도쉬 PG1 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "풍부한 바디감 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 에콰도르 산 아구스틴 시드라 내추럴입니다. 풍부한 바디감 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "럼와 어울리는 커피 원두가 있나요?",
+        "response": "럼 맛을 가진 추천 원두는 콜롬비아 피탈리토 알토 아폰테 카투라 허니입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "블루베리 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "블루베리 맛을 가진 추천 원두는 파나마 아다우라 게이샤 ASD 내추럴 DF입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "탠저린 향이 나는 커피가 궁금해요.",
+        "response": "탠저린 맛을 가진 추천 원두는 에티오피아 트와콕 셀렉션 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Basil 향이 나는 원두가 있을까요?",
+        "response": "Basil 향을 느낄 수 있는 원두로는 코스타리카 아시엔다 코페이 카렌 빌라사치 무산소 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Cacao nibs 향이 나는 커피가 궁금해요.",
+        "response": "Cacao nibs 맛을 가진 추천 원두는 콜롬비아 산아구스틴 마운틴워터 프로세스 디카프입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "복숭아와 어울리는 커피 원두가 있나요?",
+        "response": "복숭아 향을 느낄 수 있는 원두로는 에티오피아 아리차 내추럴 G1이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "얼그레이 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "얼그레이 향이 나는 원두로는 콜롬비아 룸브레라 시드라 락틱 내추럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Date 향이 나는 커피가 궁금해요.",
+        "response": "해당 원두는 콜롬비아 모모스 셀렉션 라 플라타 핑크버번 워시드입니다. Date 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Silky 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Silky 맛을 가진 추천 원두는 콜롬비아 룸브레라 시드라 락틱 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Fruit Candy 향이 나는 원두가 있을까요?",
+        "response": "Fruit Candy 향이 나는 원두로는 콜롬비아 산 어거스틴 라우리나 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Stone Fruit와 어울리는 커피 원두가 있나요?",
+        "response": "Stone Fruit 향이 나는 원두로는 온두라스 벤하민 파즈라 살사 게이샤 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Clementine와 어울리는 커피 원두가 있나요?",
+        "response": "추천드릴 수 있는 Clementine 맛의 원두는 에티오피아 아디스입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Dark Chocoltae 향이 나는 원두가 있을까요?",
+        "response": "Dark Chocoltae 향을 느낄 수 있는 원두로는 페루 라 팔마 게이샤 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Velvety 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 에티오피아 예가체프 이디도 내추럴 G1입니다. Velvety 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Cashew Nuts 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 에티오피아 예가체프 G2입니다. Cashew Nuts 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Dried white floral와 어울리는 커피 원두가 있나요?",
+        "response": "해당 원두는 에티오피아 예가체프 G2입니다. Dried white floral 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "깔끔함 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 에티오피아 예가체프 아라차 아도쉬 PG1 내추럴입니다. 깔끔함 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "보리 향이 나는 원두가 있을까요?",
+        "response": "해당 원두는 파나마 코토와 던칸 게이샤 내추럴입니다. 보리 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "열대과일 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "열대과일 향이 나는 원두로는 파나마 젠슨 게이샤 내추럴을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "초콜릿 향이 나는 원두가 있을까요?",
+        "response": "추천드릴 수 있는 초콜릿 맛의 원두는 에콰도르 엘도라도 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "자두 향이 나는 원두가 있을까요?",
+        "response": "자두 맛을 가진 추천 원두는 브라질 스위스 워터 프로세스 디카페인입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Rose Tea와 어울리는 커피 원두가 있나요?",
+        "response": "해당 원두는 탄자니아 킬리만자로 AA 워시드입니다. Rose Tea 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Delicate 맛을 가진 원두를 추천해 주세요.",
+        "response": "Delicate 향이 나는 원두로는 콜롬비아 엘 트리운포 핑크부르봉 세미워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "파인애플 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 페루 라 루쿠마 게이샤 워시드입니다. 파인애플 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "밀크초콜릿 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 과테말라 아구이요테스 마라고지페 내추럴입니다. 밀크초콜릿 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Lily 맛을 가진 원두를 추천해 주세요.",
+        "response": "Lily 향이 나는 원두로는 코스타리카 재규어허니 SHB을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Winy 맛을 가진 원두를 추천해 주세요.",
+        "response": "추천드릴 수 있는 Winy 맛의 원두는 에티오피아 코케허니 G1입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Pomegrante 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Pomegrante 향을 느낄 수 있는 원두로는 콜롬비아 핀카 하르딘 펠리페 아실라 핑크 버본 무산소 내추럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Syrup 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "추천드릴 수 있는 Syrup 맛의 원두는 케냐 응가라투 AA 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "베리 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "베리 향을 느낄 수 있는 원두로는 콜롬비아 산아구스틴 마운틴워터 프로세스 디카프이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Very Complex 향이 나는 원두가 있을까요?",
+        "response": "해당 원두는 과테말라 라 에르모사 에티오피아 게이샤 풀리 워시드 옥션 랏입니다. Very Complex 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Cacao nibs 향이 나는 커피가 궁금해요.",
+        "response": "Cacao nibs 맛을 가진 추천 원두는 에티오피아 구지 우라가 74112 내추럴 A.F.C.A#1입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "자두 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "자두 향이 나는 원두로는 인도네시아 만델링 G1을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Roasted Sweet Potato와 어울리는 커피 원두가 있나요?",
+        "response": "추천드릴 수 있는 Roasted Sweet Potato 맛의 원두는 에콰도르 크루즈 로마 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Jicy 맛을 가진 원두를 추천해 주세요.",
+        "response": "해당 원두는 콜롬비아 카우카 디카페인입니다. Jicy 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Red apple와 어울리는 커피 원두가 있나요?",
+        "response": "Red apple 맛을 가진 추천 원두는 페루 라 팔마 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Lime Mojito와 어울리는 커피 원두가 있나요?",
+        "response": "Lime Mojito 향을 느낄 수 있는 원두로는 파나마 세비지 커피스 게이샤 '이리디센스' CM 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Concord Grape 향이 나는 커피가 궁금해요.",
+        "response": "Concord Grape 향을 느낄 수 있는 원두로는 코스타리카 비스타 알 피델 비야사치 내츄럴이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "자두 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "자두 향을 느낄 수 있는 원두로는 탄자니아 킬리만자로 AA 워시드이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Lime Mojito 향이 나는 커피가 궁금해요.",
+        "response": "Lime Mojito 맛을 가진 추천 원두는 콜롬비아 후일라 수프리모입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "비스킷 향이 나는 커피가 궁금해요.",
+        "response": "비스킷 향을 느낄 수 있는 원두로는 에티오피아 아디스이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "커피 블러썸 향이 나는 원두가 있을까요?",
+        "response": "커피 블러썸 향을 느낄 수 있는 원두로는 에티오피아 아리차 내추럴 G1이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "커피 블러썸 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "커피 블러썸 향을 느낄 수 있는 원두로는 에티오피아 아디스이 있습니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "복숭아 맛을 가진 원두를 추천해 주세요.",
+        "response": "복숭아 향이 나는 원두로는 에티오피아 예가체프 G1 아리차 워시드을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Sweet Orange 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Sweet Orange 맛을 가진 추천 원두는 온두라스 산타바바라 에믹디온 파라이네마 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Red Fruits 향이 나는 원두가 있을까요?",
+        "response": "Red Fruits 맛을 가진 추천 원두는 코스타리카 돈 카이토 카투아이 화이트 허니입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "시리얼 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "시리얼 맛을 가진 추천 원두는 코스타리카 파라미 베니토 게이샤 옐로우 허니입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "프루티 향이 나는 커피가 궁금해요.",
+        "response": "프루티 맛을 가진 추천 원두는 인도네시아 브네르 므리아 리오 무산소 내추럴입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Dried Strawberry 향이 나는 원두가 있을까요?",
+        "response": "해당 원두는 콜롬비아 카우카 디카페인 EA 23입니다. Dried Strawberry 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Assam Tea 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "Assam Tea 맛을 가진 추천 원두는 콜롬비아 수프리모입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "깔끔함 향을 가진 커피 원두를 추천해 주실 수 있나요?",
+        "response": "해당 원두는 콜롬비아 우일라 레인보우 디카페인입니다. 깔끔함 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "청사과 향이 나는 커피가 궁금해요.",
+        "response": "추천드릴 수 있는 청사과 맛의 원두는 콜롬비아 엘 파라이소 게이샤 제오입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Basil 향이 나는 커피가 궁금해요.",
+        "response": "Basil 향이 나는 원두로는 과테말라 라 에르모사 파나마 게이샤 풀리 워시드 옥션 랏을 추천드립니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Yellow - Peach 맛을 가진 원두를 추천해 주세요.",
+        "response": "Yellow - Peach 맛을 가진 추천 원두는 콜롬비아 엘 파라이소 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Dried fruit와 어울리는 커피 원두가 있나요?",
+        "response": "해당 원두는 에티오피아 구지 함벨라 고로 언에어로빅 내추럴입니다. Dried fruit 향이 강하게 느껴집니다.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Sparkling와 어울리는 커피 원두가 있나요?",
+        "response": "추천드릴 수 있는 Sparkling 맛의 원두는 콜롬비아 엘 파라이소 게이샤 워시드입니다.",
+        "category": "closed_qa"
+    }
+]
